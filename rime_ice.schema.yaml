@@ -23,10 +23,13 @@ schema:
 # abbrev: 默认的缩写取 states 的第一个字符，abbrev 可自定义一个字符
 switches:
   - name: ascii_mode
+    reset: 0
     states: [ 中, Ａ ]
   - name: ascii_punct  # 中英标点
+    reset: 0
     states: [ ¥, $ ]
   - name: traditionalization
+    reset: 0
     states: [ 简, 繁 ]
   - name: emoji
     states: [ 💀, 😄 ]

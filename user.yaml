@@ -1,4 +1,8 @@
 var:
-  last_build_time: 1709173616
+  last_build_time: 1709179038
   option:
+    full_shape: false
     simplification: true
+  previously_selected_schema: rime_ice
+  schema_access_time:
+    rime_ice: 1709174569

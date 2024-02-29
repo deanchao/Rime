@@ -1,15 +1,15 @@
 __build_info:
   rime_version: 1.8.5
   timestamps:
-    default: 1709173037
+    default: 1709178273
     default.custom: 0
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
-    Caps_Lock: clear
+    Caps_Lock: noop
     Control_L: noop
     Control_R: noop
-    Shift_L: commit_code
+    Shift_L: noop
     Shift_R: noop
 config_version: "2024-02-05"
 key_binder:
@@ -114,8 +114,6 @@ switcher:
   fold_options: false
   hotkeys:
     - F4
-    - "Control+grave"
-    - "Control+Shift+grave"
   option_list_separator: " / "
   save_options:
     - ascii_punct
