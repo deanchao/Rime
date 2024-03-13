@@ -19,8 +19,8 @@ sort: by_weight
 ...
 # +_+
 # a	a
-AA	AA
-aaa	aaa
+# AA	AA
+# aaa	aaa
 # aac	aac
 Aaliyah	Aaliyah
 Aaron	Aaron
@@ -10436,13 +10436,13 @@ Kosovo	Kosovo
 # kp	kp
 # kpx	kpx
 # kr	kr
-kraft	kraft
-Kramer	Kramer
-Kris	Kris
-Krishna	Krishna
-Kristen	Kristen
-Kristin	Kristin
-kruger	kruger
+# kraft	kraft
+# Kramer	Kramer
+# Kris	Kris
+# Krishna	Krishna
+# Kristen	Kristen
+# Kristin	Kristin
+# kruger	kruger
 # ks	ks
 # kt	kt
 # ku	ku

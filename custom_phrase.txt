@@ -23,6 +23,7 @@
 #
 # 此行之后不能写注释
 
+T恤	txu
 [OK]	okk
 Android	and
 Android	android
