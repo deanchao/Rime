@@ -23,6 +23,8 @@
 #
 # 此行之后不能写注释
 
+把	ba
+吧	b
 T恤	txu
 [OK]	okk
 Android	and
