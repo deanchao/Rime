@@ -26,7 +26,10 @@
 吧	ba
 吧	b
 T恤	txu
+OK	ok
+ok	ok
 [OK]	okk
+iOS	ios
 Android	and
 Android	android
 Amazon	ama

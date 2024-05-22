@@ -1,10 +1,10 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.11.2
   timestamps:
     default: 1709178273
     default.custom: 0
     rime_ice.custom: 0
-    rime_ice.schema: 1711440014
+    rime_ice.schema: 1716363708
     symbols_v: 1709171412
     symbols_v.custom: 0
 cn_en:
@@ -74,7 +74,6 @@ engine:
     - "table_translator@cn_en"
     - "table_translator@radical_lookup"
     - "lua_translator@unicode"
-    - "lua_translator@number_translator"
     - "lua_translator@force_gc"
 key_binder:
   bindings:
