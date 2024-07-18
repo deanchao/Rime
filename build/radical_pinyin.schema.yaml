@@ -1,7 +1,7 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.11.2
   timestamps:
-    default: 1709178273
+    default: 1721288099
     default.custom: 0
     radical_pinyin.custom: 0
     radical_pinyin.schema: 1709171412

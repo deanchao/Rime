@@ -1,2657 +1,2657 @@
 # - 来源：https://github.com/sapbmw/The-Oxford-3000/tree/master
-# - 牛津词典300词，去掉5个字母以下的单词，去掉有空格的词组
+# - 牛津词典3000词，去掉5个字母以下的单词，去掉有空格的词组
 # - by：听鸿
 ---
 name: en
 version: "2024-07-15"
 ...
-abandon	abandon
-abandoned	abandoned
-ability	ability
-about	about
-above	above
-abroad	abroad
-absence	absence
-absent	absent
-absolute	absolute
-absolutely	absolutely
-absorb	absorb
-abuse	abuse
-academic	academic
-accent	accent
-accept	accept
-acceptable	acceptable
-access	access
-accident	accident
-accidental	accidental
-accidentally	accidentally
-accommodation	accommodation
-accompany	accompany
-account	account
-accurate	accurate
-accurately	accurately
-accuse	accuse
-achieve	achieve
-achievement	achievement
-acknowledge	acknowledge
-acquire	acquire
-across	across
-action	action
-active	active
-actively	actively
-activity	activity
-actor	actor
-actress	actress
-actual	actual
-actually	actually
-adapt	adapt
-addition	addition
-additional	additional
-address	address
-adequate	adequate
-adequately	adequately
-adjust	adjust
-admiration	admiration
-admire	admire
-admit	admit
-adopt	adopt
-adult	adult
-advance	advance
-advanced	advanced
-advantage	advantage
-adventure	adventure
-advert	advert
-advertise	advertise
-advertisement	advertisement
-advertising	advertising
-advice	advice
-advise	advise
-affair	affair
-affect	affect
-affection	affection
-afford	afford
-afraid	afraid
-after	after
-afternoon	afternoon
-afterwards	afterwards
-again	again
-against	against
-agency	agency
-agent	agent
-aggressive	aggressive
-agree	agree
-agreement	agreement
-ahead	ahead
-aircraft	aircraft
-airport	airport
-alarm	alarm
-alarmed	alarmed
-alarming	alarming
-alcohol	alcohol
-alcoholic	alcoholic
-alive	alive
-allied	allied
-allow	allow
-almost	almost
-alone	alone
-along	along
-alongside	alongside
-aloud	aloud
-alphabet	alphabet
-alphabetical	alphabetical
-alphabetically	alphabetically
-already	already
-alter	alter
-alternative	alternative
-alternatively	alternatively
-although	although
-altogether	altogether
-always	always
-amaze	amaze
-amazed	amazed
-amazing	amazing
-ambition	ambition
-ambulance	ambulance
-among	among
-amount	amount
-amuse	amuse
-amused	amused
-amusing	amusing
-analyse	analyse
-analysis	analysis
-ancient	ancient
-anger	anger
-angle	angle
-angrily	angrily
-angry	angry
-animal	animal
-ankle	ankle
-anniversary	anniversary
-announce	announce
-annoy	annoy
-annoyed	annoyed
-annoying	annoying
-annual	annual
-annually	annually
-another	another
-answer	answer
-anti	-anti-
-anticipate	anticipate
-anxiety	anxiety
-anxious	anxious
-anxiously	anxiously
-anybody	anybody
-anyone	anyone
-anything	anything
-anyway	anyway
-anywhere	anywhere
-apart	apart
-apartment	apartment
-apologize	apologize
-apparent	apparent
-apparently	apparently
-appeal	appeal
-appear	appear
-appearance	appearance
-apple	apple
-application	application
-apply	apply
-appoint	appoint
-appointment	appointment
-appreciate	appreciate
-approach	approach
-appropriate	appropriate
-approval	approval
-approve	approve
-approving	approving
-approximate	approximate
-approximately	approximately
-April	April
-argue	argue
-argument	argument
-arise	arise
-armed	armed
-around	around
-arrange	arrange
-arrangement	arrangement
-arrest	arrest
-arrival	arrival
-arrive	arrive
-arrow	arrow
-article	article
-artificial	artificial
-artificially	artificially
-artist	artist
-artistic	artistic
-artistically	artistically
-ashamed	ashamed
-aside	aside
-asleep	asleep
-aspect	aspect
-assist	assist
-assistance	assistance
-assistant	assistant
-associate	associate
-associated	associated
-association	association
-assume	assume
-assure	assure
-atmosphere	atmosphere
-attach	attach
-attached	attached
-attack	attack
-attempt	attempt
-attempted	attempted
-attend	attend
-attention	attention
-attitude	attitude
-attorney	attorney
-attract	attract
-attraction	attraction
-attractive	attractive
-audience	audience
-August	August
-author	author
-authority	authority
-automatic	automatic
-automatically	automatically
-autumn	autumn
-available	available
-average	average
-avoid	avoid
-awake	awake
-award	award
-aware	aware
-awful	awful
-awfully	awfully
-awkward	awkward
-awkwardly	awkwardly
-background	background
-backward	backward
-backwards	backwards
-bacteria	bacteria
-badly	badly
-bad-tempered	bad-tempered
-baggage	baggage
-balance	balance
-bandage	bandage
-bargain	bargain
-barrier	barrier
-based	based
-basic	basic
-basically	basically
-basis	basis
-bathroom	bathroom
-battery	battery
-battle	battle
-beach	beach
-beard	beard
-beautiful	beautiful
-beautifully	beautifully
-beauty	beauty
-because	because
-become	become
-bedroom	bedroom
-before	before
-begin	begin
-beginning	beginning
-behalf	behalf
-behave	behave
-behaviour	behaviour
-behind	behind
-belief	belief
-believe	believe
-belong	belong
-below	below
-beneath	beneath
-benefit	benefit
-beside	beside
-better	better
-betting	betting
-between	between
-beyond	beyond
-bicycle	bicycle
-billion	billion
-biology	biology
-birth	birth
-birthday	birthday
-biscuit	biscuit
-bitter	bitter
-bitterly	bitterly
-black	black
-blade	blade
-blame	blame
-blank	blank
-blind	blind
-block	block
-blonde	blonde
-blood	blood
-board	board
-border	border
-bored	bored
-boring	boring
-borrow	borrow
-bother	bother
-bottle	bottle
-bottom	bottom
-bound	bound
-boyfriend	boyfriend
-brain	brain
-branch	branch
-brand	brand
-brave	brave
-bread	bread
-break	break
-breakfast	breakfast
-breast	breast
-breath	breath
-breathe	breathe
-breathing	breathing
-breed	breed
-brick	brick
-bridge	bridge
-brief	brief
-briefly	briefly
-bright	bright
-brightly	brightly
-brilliant	brilliant
-bring	bring
-broad	broad
-broadcast	broadcast
-broadly	broadly
-broken	broken
-brother	brother
-brown	brown
-brush	brush
-bubble	bubble
-budget	budget
-build	build
-building	building
-bullet	bullet
-bunch	bunch
-burnt	burnt
-burst	burst
-business	business
-businessman	businessman
-butter	butter
-button	button
-buyer	buyer
-cabinet	cabinet
-cable	cable
-calculate	calculate
-calculation	calculation
-called	called
-calmly	calmly
-camera	camera
-campaign	campaign
-camping	camping
-cancel	cancel
-cancer	cancer
-candidate	candidate
-candy	candy
-cannot	cannot
-capable	capable
-capacity	capacity
-capital	capital
-captain	captain
-capture	capture
-cardboard	cardboard
-career	career
-careful	careful
-carefully	carefully
-careless	careless
-carelessly	carelessly
-carpet	carpet
-carrot	carrot
-carry	carry
-castle	castle
-catch	catch
-category	category
-cause	cause
-cease	cease
-ceiling	ceiling
-celebrate	celebrate
-celebration	celebration
-centimetre	centimetre
-central	central
-centre	centre
-century	century
-ceremony	ceremony
-certain	certain
-certainly	certainly
-certificate	certificate
-chain	chain
-chair	chair
-chairman	chairman
-chairwoman	chairwoman
-challenge	challenge
-chamber	chamber
-chance	chance
-change	change
-channel	channel
-chapter	chapter
-character	character
-characteristic	characteristic
-charge	charge
-charity	charity
-chart	chart
-chase	chase
-cheap	cheap
-cheaply	cheaply
-cheat	cheat
-check	check
-cheek	cheek
-cheerful	cheerful
-cheerfully	cheerfully
-cheese	cheese
-chemical	chemical
-chemist	chemist
-chemistry	chemistry
-cheque	cheque
-chest	chest
-chicken	chicken
-chief	chief
-child	child
-chocolate	chocolate
-choice	choice
-choose	choose
-church	church
-cigarette	cigarette
-cinema	cinema
-circle	circle
-circumstance	circumstance
-citizen	citizen
-civil	civil
-claim	claim
-class	class
-classic	classic
-classroom	classroom
-clean	clean
-clear	clear
-clearly	clearly
-clerk	clerk
-clever	clever
-click	click
-client	client
-climate	climate
-climb	climb
-climbing	climbing
-clock	clock
-closed	closed
-closely	closely
-closet	closet
-cloth	cloth
-clothes	clothes
-clothing	clothing
-cloud	cloud
-coach	coach
-coast	coast
-coffee	coffee
-coldly	coldly
-collapse	collapse
-colleague	colleague
-collect	collect
-collection	collection
-college	college
-colour	colour
-coloured	coloured
-column	column
-combination	combination
-combine	combine
-comedy	comedy
-comfort	comfort
-comfortable	comfortable
-comfortably	comfortably
-command	command
-comment	comment
-commercial	commercial
-commission	commission
-commit	commit
-commitment	commitment
-committee	committee
-common	common
-commonly	commonly
-communicate	communicate
-communication	communication
-community	community
-company	company
-compare	compare
-comparison	comparison
-compete	compete
-competition	competition
-competitive	competitive
-complain	complain
-complaint	complaint
-complete	complete
-completely	completely
-complex	complex
-complicate	complicate
-complicated	complicated
-computer	computer
-concentrate	concentrate
-concentration	concentration
-concept	concept
-concern	concern
-concerned	concerned
-concerning	concerning
-concert	concert
-conclude	conclude
-conclusion	conclusion
-concrete	concrete
-condition	condition
-conduct	conduct
-conference	conference
-confidence	confidence
-confident	confident
-confidently	confidently
-confine	confine
-confined	confined
-confirm	confirm
-conflict	conflict
-confront	confront
-confuse	confuse
-confused	confused
-confusing	confusing
-confusion	confusion
-congratulate	congratulate
-congratulation	congratulation
-congress	congress
-connect	connect
-connected	connected
-connection	connection
-conscious	conscious
-consequence	consequence
-conservative	conservative
-consider	consider
-considerable	considerable
-considerably	considerably
-consideration	consideration
-consist	consist
-constant	constant
-constantly	constantly
-construct	construct
-construction	construction
-consult	consult
-consumer	consumer
-contact	contact
-contain	contain
-container	container
-contemporary	contemporary
-contest	contest
-context	context
-continent	continent
-continue	continue
-continuous	continuous
-continuously	continuously
-contract	contract
-contrast	contrast
-contrasting	contrasting
-contribute	contribute
-contribution	contribution
-control	control
-controlled	controlled
-convenient	convenient
-convention	convention
-conventional	conventional
-conversation	conversation
-convert	convert
-convince	convince
-cooker	cooker
-cookie	cookie
-cooking	cooking
-corner	corner
-correct	correct
-correctly	correctly
-cottage	cottage
-cotton	cotton
-cough	cough
-coughing	coughing
-could	could
-council	council
-count	count
-counter	counter
-country	country
-countryside	countryside
-county	county
-couple	couple
-courage	courage
-course	course
-court	court
-cousin	cousin
-cover	cover
-covered	covered
-covering	covering
-crack	crack
-cracked	cracked
-craft	craft
-crash	crash
-crazy	crazy
-cream	cream
-create	create
-creature	creature
-credit	credit
-crime	crime
-criminal	criminal
-crisis	crisis
-crisp	crisp
-criterion	criterion
-critical	critical
-criticism	criticism
-criticize	criticize
-cross	cross
-crowd	crowd
-crowded	crowded
-crown	crown
-crucial	crucial
-cruel	cruel
-crush	crush
-cultural	cultural
-culture	culture
-cupboard	cupboard
-curious	curious
-curiously	curiously
-curly	curly
-current	current
-currently	currently
-curtain	curtain
-curve	curve
-curved	curved
-custom	custom
-customer	customer
-customs	customs
-cycle	cycle
-cycling	cycling
-daily	daily
-damage	damage
-dance	dance
-dancer	dancer
-dancing	dancing
-danger	danger
-dangerous	dangerous
-daughter	daughter
-death	death
-debate	debate
-decade	decade
-decay	decay
-December	December
-decide	decide
-decision	decision
-declare	declare
-decline	decline
-decorate	decorate
-decoration	decoration
-decorative	decorative
-decrease	decrease
-deeply	deeply
-defeat	defeat
-defence	defence
-defend	defend
-define	define
-definite	definite
-definitely	definitely
-definition	definition
-degree	degree
-delay	delay
-deliberate	deliberate
-deliberately	deliberately
-delicate	delicate
-delight	delight
-delighted	delighted
-deliver	deliver
-delivery	delivery
-demand	demand
-demonstrate	demonstrate
-dentist	dentist
-department	department
-departure	departure
-depend	depend
-deposit	deposit
-depress	depress
-depressed	depressed
-depressing	depressing
-depth	depth
-derive	derive
-describe	describe
-description	description
-desert	desert
-deserted	deserted
-deserve	deserve
-design	design
-desire	desire
-desperate	desperate
-desperately	desperately
-despite	despite
-destroy	destroy
-destruction	destruction
-detail	detail
-detailed	detailed
-determination	determination
-determine	determine
-determined	determined
-develop	develop
-development	development
-device	device
-devote	devote
-devoted	devoted
-diagram	diagram
-diamond	diamond
-diary	diary
-dictionary	dictionary
-difference	difference
-different	different
-differently	differently
-difficult	difficult
-difficulty	difficulty
-digital	digital
-dinner	dinner
-direct	direct
-direction	direction
-directly	directly
-director	director
-dirty	dirty
-disabled	disabled
-disadvantage	disadvantage
-disagree	disagree
-disagreement	disagreement
-disappear	disappear
-disappoint	disappoint
-disappointed	disappointed
-disappointing	disappointing
-disappointment	disappointment
-disapproval	disapproval
-disapprove	disapprove
-disapproving	disapproving
-disaster	disaster
-discipline	discipline
-discount	discount
-discover	discover
-discovery	discovery
-discuss	discuss
-discussion	discussion
-disease	disease
-disgust	disgust
-disgusted	disgusted
-disgusting	disgusting
-dishonest	dishonest
-dishonestly	dishonestly
-dislike	dislike
-dismiss	dismiss
-display	display
-dissolve	dissolve
-distance	distance
-distinguish	distinguish
-distribute	distribute
-distribution	distribution
-district	district
-disturb	disturb
-disturbing	disturbing
-divide	divide
-division	division
-divorce	divorce
-divorced	divorced
-doctor	doctor
-document	document
-dollar	dollar
-domestic	domestic
-dominate	dominate
-double	double
-doubt	doubt
-downstairs	downstairs
-downward	downward
-downwards	downwards
-dozen	dozen
-draft	draft
-drama	drama
-dramatic	dramatic
-dramatically	dramatically
-drawer	drawer
-drawing	drawing
-dream	dream
-dress	dress
-dressed	dressed
-drink	drink
-drive	drive
-driver	driver
-driving	driving
-drugstore	drugstore
-drunk	drunk
-during	during
-dying	dying
-early	early
-earth	earth
-easily	easily
-eastern	eastern
-economic	economic
-economy	economy
-edition	edition
-editor	editor
-educate	educate
-educated	educated
-education	education
-effect	effect
-effective	effective
-effectively	effectively
-efficient	efficient
-efficiently	efficiently
-effort	effort
-eight	eight
-eighteen	eighteen
-eighteenth	eighteenth
-eighth	eighth
-eightieth	eightieth
-eighty	eighty
-either	either
-elbow	elbow
-elderly	elderly
-elect	elect
-election	election
-electric	electric
-electrical	electrical
-electricity	electricity
-electronic	electronic
-elegant	elegant
-element	element
-elevator	elevator
-eleven	eleven
-eleventh	eleventh
-elsewhere	elsewhere
-email	email
-embarrass	embarrass
-embarrassed	embarrassed
-embarrassing	embarrassing
-embarrassment	embarrassment
-emerge	emerge
-emergency	emergency
-emotion	emotion
-emotional	emotional
-emotionally	emotionally
-emphasis	emphasis
-emphasize	emphasize
-empire	empire
-employ	employ
-employee	employee
-employer	employer
-employment	employment
-empty	empty
-enable	enable
-encounter	encounter
-encourage	encourage
-encouragement	encouragement
-ending	ending
-enemy	enemy
-energy	energy
-engage	engage
-engaged	engaged
-engine	engine
-engineer	engineer
-engineering	engineering
-enjoy	enjoy
-enjoyable	enjoyable
-enjoyment	enjoyment
-enormous	enormous
-enough	enough
-enquiry	enquiry
-ensure	ensure
-enter	enter
-entertain	entertain
-entertainer	entertainer
-entertaining	entertaining
-entertainment	entertainment
-enthusiasm	enthusiasm
-enthusiastic	enthusiastic
-enthusiastically	enthusiastically
-entire	entire
-entirely	entirely
-entitle	entitle
-entry	entry
-envelope	envelope
-environment	environment
-environmental	environmental
-equal	equal
-equally	equally
-equipment	equipment
-equivalent	equivalent
-error	error
-escape	escape
-especially	especially
-essay	essay
-essential	essential
-essentially	essentially
-establish	establish
-estate	estate
-estimate	estimate
-evening	evening
-event	event
-eventually	eventually
-every	every
-everybody	everybody
-everyone	everyone
-everything	everything
-everywhere	everywhere
-evidence	evidence
-exact	exact
-exactly	exactly
-exaggerate	exaggerate
-exaggerated	exaggerated
-examination	examination
-examine	examine
-example	example
-excellent	excellent
-except	except
-exception	exception
-exchange	exchange
-excite	excite
-excited	excited
-excitement	excitement
-exciting	exciting
-exclude	exclude
-excluding	excluding
-excuse	excuse
-executive	executive
-exercise	exercise
-exhibit	exhibit
-exhibition	exhibition
-exist	exist
-existence	existence
-expand	expand
-expect	expect
-expectation	expectation
-expected	expected
-expense	expense
-expensive	expensive
-experience	experience
-experienced	experienced
-experiment	experiment
-expert	expert
-explain	explain
-explanation	explanation
-explode	explode
-explore	explore
-explosion	explosion
-export	export
-expose	expose
-express	express
-expression	expression
-extend	extend
-extension	extension
-extensive	extensive
-extent	extent
-extra	extra
-extraordinary	extraordinary
-extreme	extreme
-extremely	extremely
-facility	facility
-factor	factor
-factory	factory
-failure	failure
-faint	faint
-faintly	faintly
-fairly	fairly
-faith	faith
-faithful	faithful
-faithfully	faithfully
-false	false
-familiar	familiar
-family	family
-famous	famous
-fancy	fancy
-farmer	farmer
-farming	farming
-farther	farther
-farthest	farthest
-fashion	fashion
-fashionable	fashionable
-fasten	fasten
-father	father
-faucet	faucet
-fault	fault
-favour	favour
-favourite	favourite
-feather	feather
-feature	feature
-February	February
-federal	federal
-feeling	feeling
-fellow	fellow
-female	female
-fence	fence
-festival	festival
-fetch	fetch
-fever	fever
-field	field
-fifteen	fifteen
-fifteenth	fifteenth
-fifth	fifth
-fiftieth	fiftieth
-fifty	fifty
-fight	fight
-fighting	fighting
-figure	figure
-final	final
-finally	finally
-finance	finance
-financial	financial
-finely	finely
-finger	finger
-finish	finish
-finished	finished
-firmly	firmly
-first	first
-fishing	fishing
-fixed	fixed
-flame	flame
-flash	flash
-flavour	flavour
-flesh	flesh
-flight	flight
-float	float
-flood	flood
-flooded	flooded
-flooding	flooding
-floor	floor
-flour	flour
-flower	flower
-flying	flying
-focus	focus
-folding	folding
-follow	follow
-following	following
-football	football
-force	force
-forecast	forecast
-foreign	foreign
-forest	forest
-forever	forever
-forget	forget
-forgive	forgive
-formal	formal
-formally	formally
-former	former
-formerly	formerly
-formula	formula
-fortieth	fortieth
-fortune	fortune
-forty	forty
-forward	forward
-found	found
-foundation	foundation
-fourteen	fourteen
-fourteenth	fourteenth
-fourth	fourth
-frame	frame
-freedom	freedom
-freely	freely
-freeze	freeze
-frequent	frequent
-frequently	frequently
-fresh	fresh
-freshly	freshly
-Friday	Friday
-fridge	fridge
-friend	friend
-friendly	friendly
-friendship	friendship
-frighten	frighten
-frightened	frightened
-frightening	frightening
-front	front
-frozen	frozen
-fruit	fruit
-fully	fully
-function	function
-fundamental	fundamental
-funeral	funeral
-funny	funny
-furniture	furniture
-further	further
-future	future
-gallon	gallon
-gamble	gamble
-gambling	gambling
-garage	garage
-garbage	garbage
-garden	garden
-gasoline	gasoline
-gather	gather
-general	general
-generally	generally
-generate	generate
-generation	generation
-generous	generous
-generously	generously
-gentle	gentle
-gentleman	gentleman
-gently	gently
-genuine	genuine
-genuinely	genuinely
-geography	geography
-giant	giant
-girlfriend	girlfriend
-glass	glass
-global	global
-glove	glove
-goodbye	goodbye
-goods	goods
-govern	govern
-government	government
-governor	governor
-grade	grade
-gradual	gradual
-gradually	gradually
-grain	grain
-grammar	grammar
-grand	grand
-grandchild	grandchild
-granddaughter	granddaughter
-grandfather	grandfather
-grandmother	grandmother
-grandparent	grandparent
-grandson	grandson
-grant	grant
-grass	grass
-grateful	grateful
-gravely	gravely
-great	great
-greatly	greatly
-green	green
-grocery	grocery
-ground	ground
-group	group
-growth	growth
-guarantee	guarantee
-guard	guard
-guess	guess
-guest	guest
-guide	guide
-guilty	guilty
-habit	habit
-hairdresser	hairdresser
-hammer	hammer
-handle	handle
-happen	happen
-happily	happily
-happiness	happiness
-happy	happy
-hardly	hardly
-harmful	harmful
-harmless	harmless
-hatred	hatred
-headache	headache
-health	health
-healthy	healthy
-hearing	hearing
-heart	heart
-heating	heating
-heaven	heaven
-heavily	heavily
-heavy	heavy
-height	height
-hello	hello
-helpful	helpful
-hence	hence
-herself	herself
-hesitate	hesitate
-highlight	highlight
-highly	highly
-highway	highway
-himself	himself
-historical	historical
-history	history
-hobby	hobby
-holiday	holiday
-hollow	hollow
-homework	homework
-honest	honest
-honestly	honestly
-honour	honour
-horizontal	horizontal
-horror	horror
-horse	horse
-hospital	hospital
-hotel	hotel
-house	house
-household	household
-housing	housing
-however	however
-human	human
-humorous	humorous
-humour	humour
-hundred	hundred
-hundredth	hundredth
-hungry	hungry
-hunting	hunting
-hurry	hurry
-husband	husband
-ideal	ideal
-identify	identify
-identity	identity
-ignore	ignore
-illegal	illegal
-illegally	illegally
-illness	illness
-illustrate	illustrate
-image	image
-imaginary	imaginary
-imagination	imagination
-imagine	imagine
-immediate	immediate
-immediately	immediately
-immoral	immoral
-impact	impact
-impatient	impatient
-implication	implication
-imply	imply
-import	import
-importance	importance
-important	important
-importantly	importantly
-impose	impose
-impossible	impossible
-impress	impress
-impressed	impressed
-impression	impression
-impressive	impressive
-improve	improve
-improvement	improvement
-inability	inability
-incident	incident
-include	include
-including	including
-income	income
-increase	increase
-increasingly	increasingly
-indeed	indeed
-independence	independence
-independent	independent
-independently	independently
-index	index
-indicate	indicate
-indication	indication
-indirect	indirect
-indirectly	indirectly
-individual	individual
-indoor	indoor
-indoors	indoors
-industrial	industrial
-industry	industry
-inevitable	inevitable
-inevitably	inevitably
-infect	infect
-infected	infected
-infection	infection
-infectious	infectious
-influence	influence
-inform	inform
-informal	informal
-information	information
-ingredient	ingredient
-initial	initial
-initially	initially
-initiative	initiative
-injure	injure
-injured	injured
-injury	injury
-inner	inner
-innocent	innocent
-insect	insect
-insert	insert
-inside	inside
-insist	insist
-install	install
-instance	instance
-instead	instead
-institute	institute
-institution	institution
-instruction	instruction
-instrument	instrument
-insult	insult
-insulting	insulting
-insurance	insurance
-intelligence	intelligence
-intelligent	intelligent
-intend	intend
-intended	intended
-intention	intention
-interest	interest
-interested	interested
-interesting	interesting
-interior	interior
-internal	internal
-international	international
-Internet	Internet
-interpret	interpret
-interpretation	interpretation
-interrupt	interrupt
-interruption	interruption
-interval	interval
-interview	interview
-introduce	introduce
-introduction	introduction
-invent	invent
-invention	invention
-invest	invest
-investigate	investigate
-investigation	investigation
-investment	investment
-invitation	invitation
-invite	invite
-involve	involve
-involved	involved
-involvement	involvement
-irritate	irritate
-irritated	irritated
-irritating	irritating
-island	island
-issue	issue
-itself	itself
-jacket	jacket
-January	January
-jealous	jealous
-jeans	jeans
-jelly	jelly
-jewellery	jewellery
-joint	joint
-jointly	jointly
-journalist	journalist
-journey	journey
-judge	judge
-judgement	judgement
-juice	juice
-junior	junior
-justice	justice
-justified	justified
-justify	justify
-keyboard	keyboard
-killing	killing
-kilogram	kilogram
-kilometre	kilometre
-kindly	kindly
-kindness	kindness
-kitchen	kitchen
-knife	knife
-knitted	knitted
-knitting	knitting
-knock	knock
-knowledge	knowledge
-label	label
-laboratory	laboratory
-labour	labour
-lacking	lacking
-landscape	landscape
-language	language
-large	large
-largely	largely
-later	later
-latest	latest
-latter	latter
-laugh	laugh
-launch	launch
-lawyer	lawyer
-layer	layer
-leader	leader
-league	league
-learn	learn
-least	least
-leather	leather
-leave	leave
-lecture	lecture
-legal	legal
-legally	legally
-lemon	lemon
-length	length
-lesson	lesson
-letter	letter
-level	level
-library	library
-licence	licence
-license	license
-light	light
-lightly	lightly
-likely	likely
-limit	limit
-limited	limited
-liquid	liquid
-listen	listen
-literature	literature
-litre	litre
-little	little
-lively	lively
-living	living
-local	local
-locally	locally
-locate	locate
-located	located
-location	location
-logic	logic
-logical	logical
-lonely	lonely
-loose	loose
-loosely	loosely
-lorry	lorry
-loudly	loudly
-lovely	lovely
-lover	lover
-loyal	loyal
-lucky	lucky
-luggage	luggage
-lunch	lunch
-machine	machine
-machinery	machinery
-magazine	magazine
-magic	magic
-mainly	mainly
-maintain	maintain
-major	major
-majority	majority
-make-up	make-up
-manage	manage
-management	management
-manager	manager
-manner	manner
-manufacture	manufacture
-manufacturer	manufacturer
-manufacturing	manufacturing
-march	march
-March	March
-market	market
-marketing	marketing
-marriage	marriage
-married	married
-marry	marry
-massive	massive
-master	master
-match	match
-matching	matching
-material	material
-mathematics	mathematics
-matter	matter
-maximum	maximum
-maybe	maybe
-mayor	mayor
-meaning	meaning
-means	means
-meanwhile	meanwhile
-measure	measure
-measurement	measurement
-media	media
-medical	medical
-medicine	medicine
-medium	medium
-meeting	meeting
-member	member
-membership	membership
-memory	memory
-mental	mental
-mentally	mentally
-mention	mention
-merely	merely
-message	message
-metal	metal
-method	method
-metre	metre
-midday	midday
-middle	middle
-midnight	midnight
-might	might
-military	military
-milligram	milligram
-millimetre	millimetre
-million	million
-millionth	millionth
-mineral	mineral
-minimum	minimum
-minister	minister
-ministry	ministry
-minor	minor
-minority	minority
-mirror	mirror
-missing	missing
-mistake	mistake
-mistaken	mistaken
-mixed	mixed
-mixture	mixture
-mobile	mobile
-model	model
-modern	modern
-moment	moment
-Monday	Monday
-money	money
-monitor	monitor
-month	month
-moral	moral
-morally	morally
-moreover	moreover
-morning	morning
-mostly	mostly
-mother	mother
-motion	motion
-motor	motor
-motorbike	motorbike
-motorcycle	motorcycle
-mount	mount
-mountain	mountain
-mouse	mouse
-mouth	mouth
-movement	movement
-movie	movie
-moving	moving
-multiply	multiply
-murder	murder
-muscle	muscle
-museum	museum
-music	music
-musical	musical
-musician	musician
-myself	myself
-mysterious	mysterious
-mystery	mystery
-naked	naked
-narrow	narrow
-nation	nation
-national	national
-natural	natural
-naturally	naturally
-nature	nature
-nearby	nearby
-nearly	nearly
-neatly	neatly
-necessarily	necessarily
-necessary	necessary
-needle	needle
-negative	negative
-neighbour	neighbour
-neighbourhood	neighbourhood
-neither	neither
-nephew	nephew
-nerve	nerve
-nervous	nervous
-nervously	nervously
-network	network
-never	never
-nevertheless	nevertheless
-newly	newly
-newspaper	newspaper
-nicely	nicely
-niece	niece
-night	night
-nineteen	nineteen
-nineteenth	nineteenth
-ninetieth	ninetieth
-ninety	ninety
-ninth	ninth
-nobody	nobody
-noise	noise
-noisily	noisily
-noisy	noisy
-nonsense	nonsense
-normal	normal
-normally	normally
-north	north
-northern	northern
-nothing	nothing
-notice	notice
-noticeable	noticeable
-novel	novel
-November	November
-nowhere	nowhere
-nuclear	nuclear
-number	number
-nurse	nurse
-object	object
-objective	objective
-observation	observation
-observe	observe
-obtain	obtain
-obvious	obvious
-obviously	obviously
-occasion	occasion
-occasionally	occasionally
-occupied	occupied
-occupy	occupy
-occur	occur
-ocean	ocean
-o’clock	o’clock
-October	October
-oddly	oddly
-offence	offence
-offend	offend
-offense	offense
-offensive	offensive
-offer	offer
-office	office
-officer	officer
-official	official
-officially	officially
-often	often
-old-fashioned	old-fashioned
-onion	onion
-online	online
-opening	opening
-openly	openly
-operate	operate
-operation	operation
-opinion	opinion
-opponent	opponent
-opportunity	opportunity
-oppose	oppose
-opposed	opposed
-opposing	opposing
-opposite	opposite
-opposition	opposition
-option	option
-orange	orange
-order	order
-ordinary	ordinary
-organ	organ
-organization	organization
-organize	organize
-organized	organized
-origin	origin
-original	original
-originally	originally
-other	other
-otherwise	otherwise
-ourselves	ourselves
-outdoor	outdoor
-outdoors	outdoors
-outer	outer
-outline	outline
-output	output
-outside	outside
-outstanding	outstanding
-overall	overall
-overcome	overcome
-owner	owner
-package	package
-packaging	packaging
-packet	packet
-painful	painful
-paint	paint
-painter	painter
-painting	painting
-palace	palace
-panel	panel
-pants	pants
-paper	paper
-parallel	parallel
-parent	parent
-parliament	parliament
-particular	particular
-particularly	particularly
-partly	partly
-partner	partner
-partnership	partnership
-party	party
-passage	passage
-passenger	passenger
-passing	passing
-passport	passport
-patience	patience
-patient	patient
-pattern	pattern
-pause	pause
-payment	payment
-peace	peace
-peaceful	peaceful
-pencil	pencil
-penny	penny
-people	people
-pepper	pepper
-perfect	perfect
-perfectly	perfectly
-perform	perform
-performance	performance
-performer	performer
-perhaps	perhaps
-period	period
-permanent	permanent
-permanently	permanently
-permission	permission
-permit	permit
-person	person
-personal	personal
-personality	personality
-personally	personally
-persuade	persuade
-petrol	petrol
-phase	phase
-philosophy	philosophy
-phone	phone
-photo	photo
-photocopy	photocopy
-photograph	photograph
-photographer	photographer
-photography	photography
-phrase	phrase
-physical	physical
-physically	physically
-physics	physics
-piano	piano
-picture	picture
-piece	piece
-pilot	pilot
-pitch	pitch
-place	place
-plain	plain
-plane	plane
-planet	planet
-planning	planning
-plant	plant
-plastic	plastic
-plate	plate
-platform	platform
-player	player
-pleasant	pleasant
-pleasantly	pleasantly
-please	please
-pleased	pleased
-pleasing	pleasing
-pleasure	pleasure
-plenty	plenty
-pocket	pocket
-poetry	poetry
-point	point
-pointed	pointed
-poison	poison
-poisonous	poisonous
-police	police
-policy	policy
-polish	polish
-polite	polite
-politely	politely
-political	political
-politically	politically
-politician	politician
-politics	politics
-pollution	pollution
-popular	popular
-population	population
-position	position
-positive	positive
-possess	possess
-possession	possession
-possibility	possibility
-possible	possible
-possibly	possibly
-potato	potato
-potential	potential
-potentially	potentially
-pound	pound
-powder	powder
-power	power
-powerful	powerful
-practical	practical
-practically	practically
-practice	practice
-practise	practise
-praise	praise
-prayer	prayer
-precise	precise
-precisely	precisely
-predict	predict
-prefer	prefer
-preference	preference
-pregnant	pregnant
-premises	premises
-preparation	preparation
-prepare	prepare
-prepared	prepared
-presence	presence
-present	present
-presentation	presentation
-preserve	preserve
-president	president
-press	press
-pressure	pressure
-presumably	presumably
-pretend	pretend
-pretty	pretty
-prevent	prevent
-previous	previous
-previously	previously
-price	price
-pride	pride
-priest	priest
-primarily	primarily
-primary	primary
-prince	prince
-princess	princess
-principle	principle
-print	print
-printer	printer
-printing	printing
-prior	prior
-priority	priority
-prison	prison
-prisoner	prisoner
-private	private
-privately	privately
-prize	prize
-probable	probable
-probably	probably
-problem	problem
-procedure	procedure
-proceed	proceed
-produce	produce
-producer	producer
-product	product
-production	production
-profession	profession
-professional	professional
-professor	professor
-profit	profit
-program	program
-programme	programme
-progress	progress
-project	project
-promise	promise
-promote	promote
-promotion	promotion
-prompt	prompt
-promptly	promptly
-pronounce	pronounce
-pronunciation	pronunciation
-proof	proof
-proper	proper
-properly	properly
-property	property
-proportion	proportion
-proposal	proposal
-propose	propose
-prospect	prospect
-protect	protect
-protection	protection
-protest	protest
-proud	proud
-proudly	proudly
-prove	prove
-provide	provide
-provided	provided
-providing	providing
-public	public
-publication	publication
-publicity	publicity
-publicly	publicly
-publish	publish
-publishing	publishing
-punch	punch
-punish	punish
-punishment	punishment
-pupil	pupil
-purchase	purchase
-purely	purely
-purple	purple
-purpose	purpose
-pursue	pursue
-qualification	qualification
-qualified	qualified
-qualify	qualify
-quality	quality
-quantity	quantity
-quarter	quarter
-queen	queen
-question	question
-quick	quick
-quickly	quickly
-quiet	quiet
-quietly	quietly
-quite	quite
-quote	quote
-racing	racing
-radio	radio
-railroad	railroad
-railway	railway
-raise	raise
-range	range
-rapid	rapid
-rapidly	rapidly
-rarely	rarely
-rather	rather
-reach	reach
-react	react
-reaction	reaction
-reader	reader
-reading	reading
-ready	ready
-realistic	realistic
-reality	reality
-realize	realize
-really	really
-reason	reason
-reasonable	reasonable
-reasonably	reasonably
-recall	recall
-receipt	receipt
-receive	receive
-recent	recent
-recently	recently
-reception	reception
-reckon	reckon
-recognition	recognition
-recognize	recognize
-recommend	recommend
-record	record
-recording	recording
-recover	recover
-reduce	reduce
-reduction	reduction
-refer	refer
-reference	reference
-reflect	reflect
-reform	reform
-refrigerator	refrigerator
-refusal	refusal
-regard	regard
-regarding	regarding
-region	region
-regional	regional
-register	register
-regret	regret
-regular	regular
-regularly	regularly
-regulation	regulation
-reject	reject
-relate	relate
-related	related
-relation	relation
-relationship	relationship
-relative	relative
-relatively	relatively
-relax	relax
-relaxed	relaxed
-relaxing	relaxing
-release	release
-relevant	relevant
-relief	relief
-religion	religion
-religious	religious
-remain	remain
-remaining	remaining
-remains	remains
-remark	remark
-remarkable	remarkable
-remarkably	remarkably
-remember	remember
-remind	remind
-remote	remote
-removal	removal
-remove	remove
-rented	rented
-repair	repair
-repeat	repeat
-repeated	repeated
-repeatedly	repeatedly
-replace	replace
-reply	reply
-report	report
-represent	represent
-representative	representative
-reproduce	reproduce
-reputation	reputation
-request	request
-require	require
-requirement	requirement
-rescue	rescue
-research	research
-reservation	reservation
-reserve	reserve
-resident	resident
-resist	resist
-resistance	resistance
-resolve	resolve
-resort	resort
-resource	resource
-respect	respect
-respond	respond
-response	response
-responsibility	responsibility
-responsible	responsible
-restaurant	restaurant
-restore	restore
-restrict	restrict
-restricted	restricted
-restriction	restriction
-result	result
-retain	retain
-retire	retire
-retired	retired
-retirement	retirement
-return	return
-reveal	reveal
-reverse	reverse
-review	review
-revise	revise
-revision	revision
-revolution	revolution
-reward	reward
-rhythm	rhythm
-rider	rider
-ridiculous	ridiculous
-riding	riding
-right	right
-rightly	rightly
-rival	rival
-river	river
-romantic	romantic
-rough	rough
-roughly	roughly
-round	round
-rounded	rounded
-route	route
-routine	routine
-royal	royal
-rubber	rubber
-rubbish	rubbish
-rudely	rudely
-ruined	ruined
-ruler	ruler
-rumour	rumour
-runner	runner
-running	running
-rural	rural
-sadly	sadly
-sadness	sadness
-safely	safely
-safety	safety
-sailing	sailing
-sailor	sailor
-salad	salad
-salary	salary
-salty	salty
-sample	sample
-satisfaction	satisfaction
-satisfied	satisfied
-satisfy	satisfy
-satisfying	satisfying
-Saturday	Saturday
-sauce	sauce
-saving	saving
-scale	scale
-scare	scare
-scared	scared
-scene	scene
-schedule	schedule
-scheme	scheme
-school	school
-science	science
-scientific	scientific
-scientist	scientist
-scissors	scissors
-score	score
-scratch	scratch
-scream	scream
-screen	screen
-screw	screw
-search	search
-season	season
-secondary	secondary
-secret	secret
-secretary	secretary
-secretly	secretly
-section	section
-sector	sector
-secure	secure
-security	security
-select	select
-selection	selection
-self	-self-
-senate	senate
-senator	senator
-senior	senior
-sense	sense
-sensible	sensible
-sensitive	sensitive
-sentence	sentence
-separate	separate
-separated	separated
-separately	separately
-separation	separation
-September	September
-series	series
-serious	serious
-seriously	seriously
-servant	servant
-serve	serve
-service	service
-session	session
-settle	settle
-seven	seven
-seventeen	seventeen
-seventh	seventh
-seventieth	seventieth
-seventy	seventy
-several	several
-severe	severe
-severely	severely
-sewing	sewing
-sexual	sexual
-sexually	sexually
-shade	shade
-shadow	shadow
-shake	shake
-shall	shall
-shallow	shallow
-shame	shame
-shape	shape
-shaped	shaped
-share	share
-sharp	sharp
-sharply	sharply
-shave	shave
-sheep	sheep
-sheet	sheet
-shelf	shelf
-shell	shell
-shelter	shelter
-shift	shift
-shine	shine
-shiny	shiny
-shirt	shirt
-shock	shock
-shocked	shocked
-shocking	shocking
-shoot	shoot
-shooting	shooting
-shopping	shopping
-short	short
-shortly	shortly
-should	should
-shoulder	shoulder
-shout	shout
-shower	shower
-sideways	sideways
-sight	sight
-signal	signal
-signature	signature
-significant	significant
-significantly	significantly
-silence	silence
-silent	silent
-silly	silly
-silver	silver
-similar	similar
-similarly	similarly
-simple	simple
-simply	simply
-since	since
-sincere	sincere
-sincerely	sincerely
-singer	singer
-singing	singing
-single	single
-sister	sister
-situation	situation
-sixteen	sixteen
-sixth	sixth
-sixtieth	sixtieth
-sixty	sixty
-skilful	skilful
-skilfully	skilfully
-skill	skill
-skilled	skilled
-skirt	skirt
-sleep	sleep
-sleeve	sleeve
-slice	slice
-slide	slide
-slight	slight
-slightly	slightly
-slope	slope
-slowly	slowly
-small	small
-smart	smart
-smash	smash
-smell	smell
-smile	smile
-smoke	smoke
-smoking	smoking
-smooth	smooth
-smoothly	smoothly
-snake	snake
-social	social
-socially	socially
-society	society
-softly	softly
-software	software
-soldier	soldier
-solid	solid
-solution	solution
-solve	solve
-somebody	somebody
-somehow	somehow
-someone	someone
-something	something
-sometimes	sometimes
-somewhat	somewhat
-somewhere	somewhere
-sorry	sorry
-sound	sound
-source	source
-south	south
-southern	southern
-space	space
-spare	spare
-speak	speak
-speaker	speaker
-special	special
-specialist	specialist
-specially	specially
-specific	specific
-specifically	specifically
-speech	speech
-speed	speed
-spell	spell
-spelling	spelling
-spend	spend
-spice	spice
-spicy	spicy
-spider	spider
-spirit	spirit
-spiritual	spiritual
-spite	spite
-split	split
-spoil	spoil
-spoken	spoken
-spoon	spoon
-sport	sport
-spray	spray
-spread	spread
-spring	spring
-square	square
-squeeze	squeeze
-stable	stable
-staff	staff
-stage	stage
-stair	stair
-stamp	stamp
-stand	stand
-standard	standard
-stare	stare
-start	start
-state	state
-statement	statement
-station	station
-statue	statue
-status	status
-steadily	steadily
-steady	steady
-steal	steal
-steam	steam
-steel	steel
-steep	steep
-steeply	steeply
-steer	steer
-stick	stick
-sticky	sticky
-stiff	stiff
-stiffly	stiffly
-still	still
-sting	sting
-stock	stock
-stomach	stomach
-stone	stone
-store	store
-storm	storm
-story	story
-stove	stove
-straight	straight
-strain	strain
-strange	strange
-strangely	strangely
-stranger	stranger
-strategy	strategy
-stream	stream
-street	street
-strength	strength
-stress	stress
-stressed	stressed
-stretch	stretch
-strict	strict
-strictly	strictly
-strike	strike
-striking	striking
-string	string
-strip	strip
-stripe	stripe
-striped	striped
-stroke	stroke
-strong	strong
-strongly	strongly
-structure	structure
-struggle	struggle
-student	student
-studio	studio
-study	study
-stuff	stuff
-stupid	stupid
-style	style
-subject	subject
-substance	substance
-substantial	substantial
-substantially	substantially
-substitute	substitute
-succeed	succeed
-success	success
-successful	successful
-successfully	successfully
-sudden	sudden
-suddenly	suddenly
-suffer	suffer
-suffering	suffering
-sufficient	sufficient
-sufficiently	sufficiently
-sugar	sugar
-suggest	suggest
-suggestion	suggestion
-suitable	suitable
-suitcase	suitcase
-suited	suited
-summary	summary
-summer	summer
-Sunday	Sunday
-superior	superior
-supermarket	supermarket
-supply	supply
-support	support
-supporter	supporter
-suppose	suppose
-surely	surely
-surface	surface
-surname	surname
-surprise	surprise
-surprised	surprised
-surprising	surprising
-surprisingly	surprisingly
-surround	surround
-surrounding	surrounding
-surroundings	surroundings
-survey	survey
-survive	survive
-suspect	suspect
-suspicion	suspicion
-suspicious	suspicious
-swallow	swallow
-swear	swear
-swearing	swearing
-sweat	sweat
-sweater	sweater
-sweep	sweep
-sweet	sweet
-swell	swell
-swelling	swelling
-swimming	swimming
-swing	swing
-switch	switch
-swollen	swollen
-symbol	symbol
-sympathetic	sympathetic
-sympathy	sympathy
-system	system
-table	table
-tablet	tablet
-tackle	tackle
-target	target
-taste	taste
-teach	teach
-teacher	teacher
-teaching	teaching
-technical	technical
-technique	technique
-technology	technology
-telephone	telephone
-television	television
-temperature	temperature
-temporarily	temporarily
-temporary	temporary
-tendency	tendency
-tension	tension
-tenth	tenth
-terrible	terrible
-terribly	terribly
-thank	thank
-thanks	thanks
-theatre	theatre
-their	their
-theirs	theirs
-theme	theme
-themselves	themselves
-theory	theory
-there	there
-therefore	therefore
-thick	thick
-thickly	thickly
-thickness	thickness
-thief	thief
-thing	thing
-think	think
-thinking	thinking
-third	third
-thirsty	thirsty
-thirteen	thirteen
-thirteenth	thirteenth
-thirtieth	thirtieth
-thirty	thirty
-thorough	thorough
-thoroughly	thoroughly
-though	though
-thought	thought
-thousand	thousand
-thousandth	thousandth
-thread	thread
-threat	threat
-threaten	threaten
-threatening	threatening
-three	three
-throat	throat
-through	through
-throughout	throughout
-throw	throw
-thumb	thumb
-Thursday	Thursday
-ticket	ticket
-tight	tight
-tightly	tightly
-timetable	timetable
-tired	tired
-tiring	tiring
-title	title
-today	today
-together	together
-toilet	toilet
-tomato	tomato
-tomorrow	tomorrow
-tongue	tongue
-tonight	tonight
-tonne	tonne
-tooth	tooth
-topic	topic
-total	total
-totally	totally
-touch	touch
-tough	tough
-tourist	tourist
-towards	towards
-towel	towel
-tower	tower
-trace	trace
-track	track
-trade	trade
-trading	trading
-tradition	tradition
-traditional	traditional
-traditionally	traditionally
-traffic	traffic
-train	train
-training	training
-transfer	transfer
-transform	transform
-translate	translate
-translation	translation
-transparent	transparent
-transport	transport
-transportation	transportation
-travel	travel
-traveller	traveller
-treat	treat
-treatment	treatment
-trend	trend
-trial	trial
-triangle	triangle
-trick	trick
-tropical	tropical
-trouble	trouble
-trousers	trousers
-truck	truck
-truly	truly
-trust	trust
-truth	truth
-Tuesday	Tuesday
-tunnel	tunnel
-twelfth	twelfth
-twelve	twelve
-twentieth	twentieth
-twenty	twenty
-twice	twice
-twist	twist
-twisted	twisted
-typical	typical
-typically	typically
-ultimate	ultimate
-ultimately	ultimately
-umbrella	umbrella
-unable	unable
-unacceptable	unacceptable
-uncertain	uncertain
-uncle	uncle
-uncomfortable	uncomfortable
-unconscious	unconscious
-uncontrolled	uncontrolled
-under	under
-underground	underground
-underneath	underneath
-understand	understand
-understanding	understanding
-underwater	underwater
-underwear	underwear
-unemployed	unemployed
-unemployment	unemployment
-unexpected	unexpected
-unexpectedly	unexpectedly
-unfair	unfair
-unfairly	unfairly
-unfortunate	unfortunate
-unfortunately	unfortunately
-unfriendly	unfriendly
-unhappy	unhappy
-uniform	uniform
-unimportant	unimportant
-union	union
-unique	unique
-unite	unite
-united	united
-universe	universe
-university	university
-unkind	unkind
-unknown	unknown
-unless	unless
-unlike	unlike
-unlikely	unlikely
-unload	unload
-unlucky	unlucky
-unnecessary	unnecessary
-unpleasant	unpleasant
-unreasonable	unreasonable
-unsteady	unsteady
-unsuccessful	unsuccessful
-untidy	untidy
-until	until
-unusual	unusual
-unusually	unusually
-unwilling	unwilling
-unwillingly	unwillingly
-upper	upper
-upset	upset
-upsetting	upsetting
-upstairs	upstairs
-upward	upward
-upwards	upwards
-urban	urban
-urgent	urgent
-useful	useful
-useless	useless
-usual	usual
-usually	usually
-vacation	vacation
-valid	valid
-valley	valley
-valuable	valuable
-value	value
-variation	variation
-varied	varied
-variety	variety
-various	various
-vegetable	vegetable
-vehicle	vehicle
-venture	venture
-version	version
-vertical	vertical
-victim	victim
-victory	victory
-video	video
-village	village
-violence	violence
-violent	violent
-violently	violently
-virtually	virtually
-virus	virus
-visible	visible
-vision	vision
-visit	visit
-visitor	visitor
-vital	vital
-vocabulary	vocabulary
-voice	voice
-volume	volume
-waist	waist
-waiter	waiter
-walking	walking
-wallet	wallet
-wander	wander
-warmth	warmth
-warning	warning
-washing	washing
-waste	waste
-watch	watch
-water	water
-weakness	weakness
-wealth	wealth
-weapon	weapon
-weather	weather
-website	website
-wedding	wedding
-Wednesday	Wednesday
-weekend	weekend
-weekly	weekly
-weigh	weigh
-weight	weight
-welcome	welcome
-western	western
-whatever	whatever
-wheel	wheel
-whenever	whenever
-where	where
-whereas	whereas
-wherever	wherever
-whether	whether
-which	which
-while	while
-whisper	whisper
-whistle	whistle
-white	white
-whoever	whoever
-whole	whole
-whose	whose
-widely	widely
-width	width
-wildly	wildly
-willing	willing
-willingly	willingly
-willingness	willingness
-window	window
-winner	winner
-winning	winning
-winter	winter
-withdraw	withdraw
-within	within
-without	without
-witness	witness
-woman	woman
-wonder	wonder
-wonderful	wonderful
-wooden	wooden
-worker	worker
-working	working
-world	world
-worried	worried
-worry	worry
-worrying	worrying
-worse	worse
-worship	worship
-worst	worst
-worth	worth
-would	would
-wounded	wounded
-wrapping	wrapping
-wrist	wrist
-write	write
-writer	writer
-writing	writing
-written	written
-wrong	wrong
-wrongly	wrongly
-yellow	yellow
-yesterday	yesterday
-young	young
-yours	yours
-yourself	yourself
-youth	youth
+# abandon	abandon
+# abandoned	abandoned
+# ability	ability
+# about	about
+# above	above
+# abroad	abroad
+# absence	absence
+# absent	absent
+# absolute	absolute
+# absolutely	absolutely
+# absorb	absorb
+# abuse	abuse
+# academic	academic
+# accent	accent
+# accept	accept
+# acceptable	acceptable
+# access	access
+# accident	accident
+# accidental	accidental
+# accidentally	accidentally
+# accommodation	accommodation
+# accompany	accompany
+# account	account
+# accurate	accurate
+# accurately	accurately
+# accuse	accuse
+# achieve	achieve
+# achievement	achievement
+# acknowledge	acknowledge
+# acquire	acquire
+# across	across
+# action	action
+# active	active
+# actively	actively
+# activity	activity
+# actor	actor
+# actress	actress
+# actual	actual
+# actually	actually
+# adapt	adapt
+# addition	addition
+# additional	additional
+# address	address
+# adequate	adequate
+# adequately	adequately
+# adjust	adjust
+# admiration	admiration
+# admire	admire
+# admit	admit
+# adopt	adopt
+# adult	adult
+# advance	advance
+# advanced	advanced
+# advantage	advantage
+# adventure	adventure
+# advert	advert
+# advertise	advertise
+# advertisement	advertisement
+# advertising	advertising
+# advice	advice
+# advise	advise
+# affair	affair
+# affect	affect
+# affection	affection
+# afford	afford
+# afraid	afraid
+# after	after
+# afternoon	afternoon
+# afterwards	afterwards
+# again	again
+# against	against
+# agency	agency
+# agent	agent
+# aggressive	aggressive
+# agree	agree
+# agreement	agreement
+# ahead	ahead
+# aircraft	aircraft
+# airport	airport
+# alarm	alarm
+# alarmed	alarmed
+# alarming	alarming
+# alcohol	alcohol
+# alcoholic	alcoholic
+# alive	alive
+# allied	allied
+# allow	allow
+# almost	almost
+# alone	alone
+# along	along
+# alongside	alongside
+# aloud	aloud
+# alphabet	alphabet
+# alphabetical	alphabetical
+# alphabetically	alphabetically
+# already	already
+# alter	alter
+# alternative	alternative
+# alternatively	alternatively
+# although	although
+# altogether	altogether
+# always	always
+# amaze	amaze
+# amazed	amazed
+# amazing	amazing
+# ambition	ambition
+# ambulance	ambulance
+# among	among
+# amount	amount
+# amuse	amuse
+# amused	amused
+# amusing	amusing
+# analyse	analyse
+# analysis	analysis
+# ancient	ancient
+# anger	anger
+# angle	angle
+# angrily	angrily
+# angry	angry
+# animal	animal
+# ankle	ankle
+# anniversary	anniversary
+# announce	announce
+# annoy	annoy
+# annoyed	annoyed
+# annoying	annoying
+# annual	annual
+# annually	annually
+# another	another
+# answer	answer
+# anti	-anti-
+# anticipate	anticipate
+# anxiety	anxiety
+# anxious	anxious
+# anxiously	anxiously
+# anybody	anybody
+# anyone	anyone
+# anything	anything
+# anyway	anyway
+# anywhere	anywhere
+# apart	apart
+# apartment	apartment
+# apologize	apologize
+# apparent	apparent
+# apparently	apparently
+# appeal	appeal
+# appear	appear
+# appearance	appearance
+# apple	apple
+# application	application
+# apply	apply
+# appoint	appoint
+# appointment	appointment
+# appreciate	appreciate
+# approach	approach
+# appropriate	appropriate
+# approval	approval
+# approve	approve
+# approving	approving
+# approximate	approximate
+# approximately	approximately
+# April	April
+# argue	argue
+# argument	argument
+# arise	arise
+# armed	armed
+# around	around
+# arrange	arrange
+# arrangement	arrangement
+# arrest	arrest
+# arrival	arrival
+# arrive	arrive
+# arrow	arrow
+# article	article
+# artificial	artificial
+# artificially	artificially
+# artist	artist
+# artistic	artistic
+# artistically	artistically
+# ashamed	ashamed
+# aside	aside
+# asleep	asleep
+# aspect	aspect
+# assist	assist
+# assistance	assistance
+# assistant	assistant
+# associate	associate
+# associated	associated
+# association	association
+# assume	assume
+# assure	assure
+# atmosphere	atmosphere
+# attach	attach
+# attached	attached
+# attack	attack
+# attempt	attempt
+# attempted	attempted
+# attend	attend
+# attention	attention
+# attitude	attitude
+# attorney	attorney
+# attract	attract
+# attraction	attraction
+# attractive	attractive
+# audience	audience
+# August	August
+# author	author
+# authority	authority
+# automatic	automatic
+# automatically	automatically
+# autumn	autumn
+# available	available
+# average	average
+# avoid	avoid
+# awake	awake
+# award	award
+# aware	aware
+# awful	awful
+# awfully	awfully
+# awkward	awkward
+# awkwardly	awkwardly
+# background	background
+# backward	backward
+# backwards	backwards
+# bacteria	bacteria
+# badly	badly
+# bad-tempered	bad-tempered
+# baggage	baggage
+# balance	balance
+# bandage	bandage
+# bargain	bargain
+# barrier	barrier
+# based	based
+# basic	basic
+# basically	basically
+# basis	basis
+# bathroom	bathroom
+# battery	battery
+# battle	battle
+# beach	beach
+# beard	beard
+# beautiful	beautiful
+# beautifully	beautifully
+# beauty	beauty
+# because	because
+# become	become
+# bedroom	bedroom
+# before	before
+# begin	begin
+# beginning	beginning
+# behalf	behalf
+# behave	behave
+# behaviour	behaviour
+# behind	behind
+# belief	belief
+# believe	believe
+# belong	belong
+# below	below
+# beneath	beneath
+# benefit	benefit
+# beside	beside
+# better	better
+# betting	betting
+# between	between
+# beyond	beyond
+# bicycle	bicycle
+# billion	billion
+# biology	biology
+# birth	birth
+# birthday	birthday
+# biscuit	biscuit
+# bitter	bitter
+# bitterly	bitterly
+# black	black
+# blade	blade
+# blame	blame
+# blank	blank
+# blind	blind
+# block	block
+# blonde	blonde
+# blood	blood
+# board	board
+# border	border
+# bored	bored
+# boring	boring
+# borrow	borrow
+# bother	bother
+# bottle	bottle
+# bottom	bottom
+# bound	bound
+# boyfriend	boyfriend
+# brain	brain
+# branch	branch
+# brand	brand
+# brave	brave
+# bread	bread
+# break	break
+# breakfast	breakfast
+# breast	breast
+# breath	breath
+# breathe	breathe
+# breathing	breathing
+# breed	breed
+# brick	brick
+# bridge	bridge
+# brief	brief
+# briefly	briefly
+# bright	bright
+# brightly	brightly
+# brilliant	brilliant
+# bring	bring
+# broad	broad
+# broadcast	broadcast
+# broadly	broadly
+# broken	broken
+# brother	brother
+# brown	brown
+# brush	brush
+# bubble	bubble
+# budget	budget
+# build	build
+# building	building
+# bullet	bullet
+# bunch	bunch
+# burnt	burnt
+# burst	burst
+# business	business
+# businessman	businessman
+# butter	butter
+# button	button
+# buyer	buyer
+# cabinet	cabinet
+# cable	cable
+# calculate	calculate
+# calculation	calculation
+# called	called
+# calmly	calmly
+# camera	camera
+# campaign	campaign
+# camping	camping
+# cancel	cancel
+# cancer	cancer
+# candidate	candidate
+# candy	candy
+# cannot	cannot
+# capable	capable
+# capacity	capacity
+# capital	capital
+# captain	captain
+# capture	capture
+# cardboard	cardboard
+# career	career
+# careful	careful
+# carefully	carefully
+# careless	careless
+# carelessly	carelessly
+# carpet	carpet
+# carrot	carrot
+# carry	carry
+# castle	castle
+# catch	catch
+# category	category
+# cause	cause
+# cease	cease
+# ceiling	ceiling
+# celebrate	celebrate
+# celebration	celebration
+# centimetre	centimetre
+# central	central
+# centre	centre
+# century	century
+# ceremony	ceremony
+# certain	certain
+# certainly	certainly
+# certificate	certificate
+# chain	chain
+# chair	chair
+# chairman	chairman
+# chairwoman	chairwoman
+# challenge	challenge
+# chamber	chamber
+# chance	chance
+# change	change
+# channel	channel
+# chapter	chapter
+# character	character
+# characteristic	characteristic
+# charge	charge
+# charity	charity
+# chart	chart
+# chase	chase
+# cheap	cheap
+# cheaply	cheaply
+# cheat	cheat
+# check	check
+# cheek	cheek
+# cheerful	cheerful
+# cheerfully	cheerfully
+# cheese	cheese
+# chemical	chemical
+# chemist	chemist
+# chemistry	chemistry
+# cheque	cheque
+# chest	chest
+# chicken	chicken
+# chief	chief
+# child	child
+# chocolate	chocolate
+# choice	choice
+# choose	choose
+# church	church
+# cigarette	cigarette
+# cinema	cinema
+# circle	circle
+# circumstance	circumstance
+# citizen	citizen
+# civil	civil
+# claim	claim
+# class	class
+# classic	classic
+# classroom	classroom
+# clean	clean
+# clear	clear
+# clearly	clearly
+# clerk	clerk
+# clever	clever
+# click	click
+# client	client
+# climate	climate
+# climb	climb
+# climbing	climbing
+# clock	clock
+# closed	closed
+# closely	closely
+# closet	closet
+# cloth	cloth
+# clothes	clothes
+# clothing	clothing
+# cloud	cloud
+# coach	coach
+# coast	coast
+# coffee	coffee
+# coldly	coldly
+# collapse	collapse
+# colleague	colleague
+# collect	collect
+# collection	collection
+# college	college
+# colour	colour
+# coloured	coloured
+# column	column
+# combination	combination
+# combine	combine
+# comedy	comedy
+# comfort	comfort
+# comfortable	comfortable
+# comfortably	comfortably
+# command	command
+# comment	comment
+# commercial	commercial
+# commission	commission
+# commit	commit
+# commitment	commitment
+# committee	committee
+# common	common
+# commonly	commonly
+# communicate	communicate
+# communication	communication
+# community	community
+# company	company
+# compare	compare
+# comparison	comparison
+# compete	compete
+# competition	competition
+# competitive	competitive
+# complain	complain
+# complaint	complaint
+# complete	complete
+# completely	completely
+# complex	complex
+# complicate	complicate
+# complicated	complicated
+# computer	computer
+# concentrate	concentrate
+# concentration	concentration
+# concept	concept
+# concern	concern
+# concerned	concerned
+# concerning	concerning
+# concert	concert
+# conclude	conclude
+# conclusion	conclusion
+# concrete	concrete
+# condition	condition
+# conduct	conduct
+# conference	conference
+# confidence	confidence
+# confident	confident
+# confidently	confidently
+# confine	confine
+# confined	confined
+# confirm	confirm
+# conflict	conflict
+# confront	confront
+# confuse	confuse
+# confused	confused
+# confusing	confusing
+# confusion	confusion
+# congratulate	congratulate
+# congratulation	congratulation
+# congress	congress
+# connect	connect
+# connected	connected
+# connection	connection
+# conscious	conscious
+# consequence	consequence
+# conservative	conservative
+# consider	consider
+# considerable	considerable
+# considerably	considerably
+# consideration	consideration
+# consist	consist
+# constant	constant
+# constantly	constantly
+# construct	construct
+# construction	construction
+# consult	consult
+# consumer	consumer
+# contact	contact
+# contain	contain
+# container	container
+# contemporary	contemporary
+# contest	contest
+# context	context
+# continent	continent
+# continue	continue
+# continuous	continuous
+# continuously	continuously
+# contract	contract
+# contrast	contrast
+# contrasting	contrasting
+# contribute	contribute
+# contribution	contribution
+# control	control
+# controlled	controlled
+# convenient	convenient
+# convention	convention
+# conventional	conventional
+# conversation	conversation
+# convert	convert
+# convince	convince
+# cooker	cooker
+# cookie	cookie
+# cooking	cooking
+# corner	corner
+# correct	correct
+# correctly	correctly
+# cottage	cottage
+# cotton	cotton
+# cough	cough
+# coughing	coughing
+# could	could
+# council	council
+# count	count
+# counter	counter
+# country	country
+# countryside	countryside
+# county	county
+# couple	couple
+# courage	courage
+# course	course
+# court	court
+# cousin	cousin
+# cover	cover
+# covered	covered
+# covering	covering
+# crack	crack
+# cracked	cracked
+# craft	craft
+# crash	crash
+# crazy	crazy
+# cream	cream
+# create	create
+# creature	creature
+# credit	credit
+# crime	crime
+# criminal	criminal
+# crisis	crisis
+# crisp	crisp
+# criterion	criterion
+# critical	critical
+# criticism	criticism
+# criticize	criticize
+# cross	cross
+# crowd	crowd
+# crowded	crowded
+# crown	crown
+# crucial	crucial
+# cruel	cruel
+# crush	crush
+# cultural	cultural
+# culture	culture
+# cupboard	cupboard
+# curious	curious
+# curiously	curiously
+# curly	curly
+# current	current
+# currently	currently
+# curtain	curtain
+# curve	curve
+# curved	curved
+# custom	custom
+# customer	customer
+# customs	customs
+# cycle	cycle
+# cycling	cycling
+# daily	daily
+# damage	damage
+# dance	dance
+# dancer	dancer
+# dancing	dancing
+# danger	danger
+# dangerous	dangerous
+# daughter	daughter
+# death	death
+# debate	debate
+# decade	decade
+# decay	decay
+# December	December
+# decide	decide
+# decision	decision
+# declare	declare
+# decline	decline
+# decorate	decorate
+# decoration	decoration
+# decorative	decorative
+# decrease	decrease
+# deeply	deeply
+# defeat	defeat
+# defence	defence
+# defend	defend
+# define	define
+# definite	definite
+# definitely	definitely
+# definition	definition
+# degree	degree
+# delay	delay
+# deliberate	deliberate
+# deliberately	deliberately
+# delicate	delicate
+# delight	delight
+# delighted	delighted
+# deliver	deliver
+# delivery	delivery
+# demand	demand
+# demonstrate	demonstrate
+# dentist	dentist
+# department	department
+# departure	departure
+# depend	depend
+# deposit	deposit
+# depress	depress
+# depressed	depressed
+# depressing	depressing
+# depth	depth
+# derive	derive
+# describe	describe
+# description	description
+# desert	desert
+# deserted	deserted
+# deserve	deserve
+# design	design
+# desire	desire
+# desperate	desperate
+# desperately	desperately
+# despite	despite
+# destroy	destroy
+# destruction	destruction
+# detail	detail
+# detailed	detailed
+# determination	determination
+# determine	determine
+# determined	determined
+# develop	develop
+# development	development
+# device	device
+# devote	devote
+# devoted	devoted
+# diagram	diagram
+# diamond	diamond
+# diary	diary
+# dictionary	dictionary
+# difference	difference
+# different	different
+# differently	differently
+# difficult	difficult
+# difficulty	difficulty
+# digital	digital
+# dinner	dinner
+# direct	direct
+# direction	direction
+# directly	directly
+# director	director
+# dirty	dirty
+# disabled	disabled
+# disadvantage	disadvantage
+# disagree	disagree
+# disagreement	disagreement
+# disappear	disappear
+# disappoint	disappoint
+# disappointed	disappointed
+# disappointing	disappointing
+# disappointment	disappointment
+# disapproval	disapproval
+# disapprove	disapprove
+# disapproving	disapproving
+# disaster	disaster
+# discipline	discipline
+# discount	discount
+# discover	discover
+# discovery	discovery
+# discuss	discuss
+# discussion	discussion
+# disease	disease
+# disgust	disgust
+# disgusted	disgusted
+# disgusting	disgusting
+# dishonest	dishonest
+# dishonestly	dishonestly
+# dislike	dislike
+# dismiss	dismiss
+# display	display
+# dissolve	dissolve
+# distance	distance
+# distinguish	distinguish
+# distribute	distribute
+# distribution	distribution
+# district	district
+# disturb	disturb
+# disturbing	disturbing
+# divide	divide
+# division	division
+# divorce	divorce
+# divorced	divorced
+# doctor	doctor
+# document	document
+# dollar	dollar
+# domestic	domestic
+# dominate	dominate
+# double	double
+# doubt	doubt
+# downstairs	downstairs
+# downward	downward
+# downwards	downwards
+# dozen	dozen
+# draft	draft
+# drama	drama
+# dramatic	dramatic
+# dramatically	dramatically
+# drawer	drawer
+# drawing	drawing
+# dream	dream
+# dress	dress
+# dressed	dressed
+# drink	drink
+# drive	drive
+# driver	driver
+# driving	driving
+# drugstore	drugstore
+# drunk	drunk
+# during	during
+# dying	dying
+# early	early
+# earth	earth
+# easily	easily
+# eastern	eastern
+# economic	economic
+# economy	economy
+# edition	edition
+# editor	editor
+# educate	educate
+# educated	educated
+# education	education
+# effect	effect
+# effective	effective
+# effectively	effectively
+# efficient	efficient
+# efficiently	efficiently
+# effort	effort
+# eight	eight
+# eighteen	eighteen
+# eighteenth	eighteenth
+# eighth	eighth
+# eightieth	eightieth
+# eighty	eighty
+# either	either
+# elbow	elbow
+# elderly	elderly
+# elect	elect
+# election	election
+# electric	electric
+# electrical	electrical
+# electricity	electricity
+# electronic	electronic
+# elegant	elegant
+# element	element
+# elevator	elevator
+# eleven	eleven
+# eleventh	eleventh
+# elsewhere	elsewhere
+# email	email
+# embarrass	embarrass
+# embarrassed	embarrassed
+# embarrassing	embarrassing
+# embarrassment	embarrassment
+# emerge	emerge
+# emergency	emergency
+# emotion	emotion
+# emotional	emotional
+# emotionally	emotionally
+# emphasis	emphasis
+# emphasize	emphasize
+# empire	empire
+# employ	employ
+# employee	employee
+# employer	employer
+# employment	employment
+# empty	empty
+# enable	enable
+# encounter	encounter
+# encourage	encourage
+# encouragement	encouragement
+# ending	ending
+# enemy	enemy
+# energy	energy
+# engage	engage
+# engaged	engaged
+# engine	engine
+# engineer	engineer
+# engineering	engineering
+# enjoy	enjoy
+# enjoyable	enjoyable
+# enjoyment	enjoyment
+# enormous	enormous
+# enough	enough
+# enquiry	enquiry
+# ensure	ensure
+# enter	enter
+# entertain	entertain
+# entertainer	entertainer
+# entertaining	entertaining
+# entertainment	entertainment
+# enthusiasm	enthusiasm
+# enthusiastic	enthusiastic
+# enthusiastically	enthusiastically
+# entire	entire
+# entirely	entirely
+# entitle	entitle
+# entry	entry
+# envelope	envelope
+# environment	environment
+# environmental	environmental
+# equal	equal
+# equally	equally
+# equipment	equipment
+# equivalent	equivalent
+# error	error
+# escape	escape
+# especially	especially
+# essay	essay
+# essential	essential
+# essentially	essentially
+# establish	establish
+# estate	estate
+# estimate	estimate
+# evening	evening
+# event	event
+# eventually	eventually
+# every	every
+# everybody	everybody
+# everyone	everyone
+# everything	everything
+# everywhere	everywhere
+# evidence	evidence
+# exact	exact
+# exactly	exactly
+# exaggerate	exaggerate
+# exaggerated	exaggerated
+# examination	examination
+# examine	examine
+# example	example
+# excellent	excellent
+# except	except
+# exception	exception
+# exchange	exchange
+# excite	excite
+# excited	excited
+# excitement	excitement
+# exciting	exciting
+# exclude	exclude
+# excluding	excluding
+# excuse	excuse
+# executive	executive
+# exercise	exercise
+# exhibit	exhibit
+# exhibition	exhibition
+# exist	exist
+# existence	existence
+# expand	expand
+# expect	expect
+# expectation	expectation
+# expected	expected
+# expense	expense
+# expensive	expensive
+# experience	experience
+# experienced	experienced
+# experiment	experiment
+# expert	expert
+# explain	explain
+# explanation	explanation
+# explode	explode
+# explore	explore
+# explosion	explosion
+# export	export
+# expose	expose
+# express	express
+# expression	expression
+# extend	extend
+# extension	extension
+# extensive	extensive
+# extent	extent
+# extra	extra
+# extraordinary	extraordinary
+# extreme	extreme
+# extremely	extremely
+# facility	facility
+# factor	factor
+# factory	factory
+# failure	failure
+# faint	faint
+# faintly	faintly
+# fairly	fairly
+# faith	faith
+# faithful	faithful
+# faithfully	faithfully
+# false	false
+# familiar	familiar
+# family	family
+# famous	famous
+# fancy	fancy
+# farmer	farmer
+# farming	farming
+# farther	farther
+# farthest	farthest
+# fashion	fashion
+# fashionable	fashionable
+# fasten	fasten
+# father	father
+# faucet	faucet
+# fault	fault
+# favour	favour
+# favourite	favourite
+# feather	feather
+# feature	feature
+# February	February
+# federal	federal
+# feeling	feeling
+# fellow	fellow
+# female	female
+# fence	fence
+# festival	festival
+# fetch	fetch
+# fever	fever
+# field	field
+# fifteen	fifteen
+# fifteenth	fifteenth
+# fifth	fifth
+# fiftieth	fiftieth
+# fifty	fifty
+# fight	fight
+# fighting	fighting
+# figure	figure
+# final	final
+# finally	finally
+# finance	finance
+# financial	financial
+# finely	finely
+# finger	finger
+# finish	finish
+# finished	finished
+# firmly	firmly
+# first	first
+# fishing	fishing
+# fixed	fixed
+# flame	flame
+# flash	flash
+# flavour	flavour
+# flesh	flesh
+# flight	flight
+# float	float
+# flood	flood
+# flooded	flooded
+# flooding	flooding
+# floor	floor
+# flour	flour
+# flower	flower
+# flying	flying
+# focus	focus
+# folding	folding
+# follow	follow
+# following	following
+# football	football
+# force	force
+# forecast	forecast
+# foreign	foreign
+# forest	forest
+# forever	forever
+# forget	forget
+# forgive	forgive
+# formal	formal
+# formally	formally
+# former	former
+# formerly	formerly
+# formula	formula
+# fortieth	fortieth
+# fortune	fortune
+# forty	forty
+# forward	forward
+# found	found
+# foundation	foundation
+# fourteen	fourteen
+# fourteenth	fourteenth
+# fourth	fourth
+# frame	frame
+# freedom	freedom
+# freely	freely
+# freeze	freeze
+# frequent	frequent
+# frequently	frequently
+# fresh	fresh
+# freshly	freshly
+# Friday	Friday
+# fridge	fridge
+# friend	friend
+# friendly	friendly
+# friendship	friendship
+# frighten	frighten
+# frightened	frightened
+# frightening	frightening
+# front	front
+# frozen	frozen
+# fruit	fruit
+# fully	fully
+# function	function
+# fundamental	fundamental
+# funeral	funeral
+# funny	funny
+# furniture	furniture
+# further	further
+# future	future
+# gallon	gallon
+# gamble	gamble
+# gambling	gambling
+# garage	garage
+# garbage	garbage
+# garden	garden
+# gasoline	gasoline
+# gather	gather
+# general	general
+# generally	generally
+# generate	generate
+# generation	generation
+# generous	generous
+# generously	generously
+# gentle	gentle
+# gentleman	gentleman
+# gently	gently
+# genuine	genuine
+# genuinely	genuinely
+# geography	geography
+# giant	giant
+# girlfriend	girlfriend
+# glass	glass
+# global	global
+# glove	glove
+# goodbye	goodbye
+# goods	goods
+# govern	govern
+# government	government
+# governor	governor
+# grade	grade
+# gradual	gradual
+# gradually	gradually
+# grain	grain
+# grammar	grammar
+# grand	grand
+# grandchild	grandchild
+# granddaughter	granddaughter
+# grandfather	grandfather
+# grandmother	grandmother
+# grandparent	grandparent
+# grandson	grandson
+# grant	grant
+# grass	grass
+# grateful	grateful
+# gravely	gravely
+# great	great
+# greatly	greatly
+# green	green
+# grocery	grocery
+# ground	ground
+# group	group
+# growth	growth
+# guarantee	guarantee
+# guard	guard
+# guess	guess
+# guest	guest
+# guide	guide
+# guilty	guilty
+# habit	habit
+# hairdresser	hairdresser
+# hammer	hammer
+# handle	handle
+# happen	happen
+# happily	happily
+# happiness	happiness
+# happy	happy
+# hardly	hardly
+# harmful	harmful
+# harmless	harmless
+# hatred	hatred
+# headache	headache
+# health	health
+# healthy	healthy
+# hearing	hearing
+# heart	heart
+# heating	heating
+# heaven	heaven
+# heavily	heavily
+# heavy	heavy
+# height	height
+# hello	hello
+# helpful	helpful
+# hence	hence
+# herself	herself
+# hesitate	hesitate
+# highlight	highlight
+# highly	highly
+# highway	highway
+# himself	himself
+# historical	historical
+# history	history
+# hobby	hobby
+# holiday	holiday
+# hollow	hollow
+# homework	homework
+# honest	honest
+# honestly	honestly
+# honour	honour
+# horizontal	horizontal
+# horror	horror
+# horse	horse
+# hospital	hospital
+# hotel	hotel
+# house	house
+# household	household
+# housing	housing
+# however	however
+# human	human
+# humorous	humorous
+# humour	humour
+# hundred	hundred
+# hundredth	hundredth
+# hungry	hungry
+# hunting	hunting
+# hurry	hurry
+# husband	husband
+# ideal	ideal
+# identify	identify
+# identity	identity
+# ignore	ignore
+# illegal	illegal
+# illegally	illegally
+# illness	illness
+# illustrate	illustrate
+# image	image
+# imaginary	imaginary
+# imagination	imagination
+# imagine	imagine
+# immediate	immediate
+# immediately	immediately
+# immoral	immoral
+# impact	impact
+# impatient	impatient
+# implication	implication
+# imply	imply
+# import	import
+# importance	importance
+# important	important
+# importantly	importantly
+# impose	impose
+# impossible	impossible
+# impress	impress
+# impressed	impressed
+# impression	impression
+# impressive	impressive
+# improve	improve
+# improvement	improvement
+# inability	inability
+# incident	incident
+# include	include
+# including	including
+# income	income
+# increase	increase
+# increasingly	increasingly
+# indeed	indeed
+# independence	independence
+# independent	independent
+# independently	independently
+# index	index
+# indicate	indicate
+# indication	indication
+# indirect	indirect
+# indirectly	indirectly
+# individual	individual
+# indoor	indoor
+# indoors	indoors
+# industrial	industrial
+# industry	industry
+# inevitable	inevitable
+# inevitably	inevitably
+# infect	infect
+# infected	infected
+# infection	infection
+# infectious	infectious
+# influence	influence
+# inform	inform
+# informal	informal
+# information	information
+# ingredient	ingredient
+# initial	initial
+# initially	initially
+# initiative	initiative
+# injure	injure
+# injured	injured
+# injury	injury
+# inner	inner
+# innocent	innocent
+# insect	insect
+# insert	insert
+# inside	inside
+# insist	insist
+# install	install
+# instance	instance
+# instead	instead
+# institute	institute
+# institution	institution
+# instruction	instruction
+# instrument	instrument
+# insult	insult
+# insulting	insulting
+# insurance	insurance
+# intelligence	intelligence
+# intelligent	intelligent
+# intend	intend
+# intended	intended
+# intention	intention
+# interest	interest
+# interested	interested
+# interesting	interesting
+# interior	interior
+# internal	internal
+# international	international
+# Internet	Internet
+# interpret	interpret
+# interpretation	interpretation
+# interrupt	interrupt
+# interruption	interruption
+# interval	interval
+# interview	interview
+# introduce	introduce
+# introduction	introduction
+# invent	invent
+# invention	invention
+# invest	invest
+# investigate	investigate
+# investigation	investigation
+# investment	investment
+# invitation	invitation
+# invite	invite
+# involve	involve
+# involved	involved
+# involvement	involvement
+# irritate	irritate
+# irritated	irritated
+# irritating	irritating
+# island	island
+# issue	issue
+# itself	itself
+# jacket	jacket
+# January	January
+# jealous	jealous
+# jeans	jeans
+# jelly	jelly
+# jewellery	jewellery
+# joint	joint
+# jointly	jointly
+# journalist	journalist
+# journey	journey
+# judge	judge
+# judgement	judgement
+# juice	juice
+# junior	junior
+# justice	justice
+# justified	justified
+# justify	justify
+# keyboard	keyboard
+# killing	killing
+# kilogram	kilogram
+# kilometre	kilometre
+# kindly	kindly
+# kindness	kindness
+# kitchen	kitchen
+# knife	knife
+# knitted	knitted
+# knitting	knitting
+# knock	knock
+# knowledge	knowledge
+# label	label
+# laboratory	laboratory
+# labour	labour
+# lacking	lacking
+# landscape	landscape
+# language	language
+# large	large
+# largely	largely
+# later	later
+# latest	latest
+# latter	latter
+# laugh	laugh
+# launch	launch
+# lawyer	lawyer
+# layer	layer
+# leader	leader
+# league	league
+# learn	learn
+# least	least
+# leather	leather
+# leave	leave
+# lecture	lecture
+# legal	legal
+# legally	legally
+# lemon	lemon
+# length	length
+# lesson	lesson
+# letter	letter
+# level	level
+# library	library
+# licence	licence
+# license	license
+# light	light
+# lightly	lightly
+# likely	likely
+# limit	limit
+# limited	limited
+# liquid	liquid
+# listen	listen
+# literature	literature
+# litre	litre
+# little	little
+# lively	lively
+# living	living
+# local	local
+# locally	locally
+# locate	locate
+# located	located
+# location	location
+# logic	logic
+# logical	logical
+# lonely	lonely
+# loose	loose
+# loosely	loosely
+# lorry	lorry
+# loudly	loudly
+# lovely	lovely
+# lover	lover
+# loyal	loyal
+# lucky	lucky
+# luggage	luggage
+# lunch	lunch
+# machine	machine
+# machinery	machinery
+# magazine	magazine
+# magic	magic
+# mainly	mainly
+# maintain	maintain
+# major	major
+# majority	majority
+# make-up	make-up
+# manage	manage
+# management	management
+# manager	manager
+# manner	manner
+# manufacture	manufacture
+# manufacturer	manufacturer
+# manufacturing	manufacturing
+# march	march
+# March	March
+# market	market
+# marketing	marketing
+# marriage	marriage
+# married	married
+# marry	marry
+# massive	massive
+# master	master
+# match	match
+# matching	matching
+# material	material
+# mathematics	mathematics
+# matter	matter
+# maximum	maximum
+# maybe	maybe
+# mayor	mayor
+# meaning	meaning
+# means	means
+# meanwhile	meanwhile
+# measure	measure
+# measurement	measurement
+# media	media
+# medical	medical
+# medicine	medicine
+# medium	medium
+# meeting	meeting
+# member	member
+# membership	membership
+# memory	memory
+# mental	mental
+# mentally	mentally
+# mention	mention
+# merely	merely
+# message	message
+# metal	metal
+# method	method
+# metre	metre
+# midday	midday
+# middle	middle
+# midnight	midnight
+# might	might
+# military	military
+# milligram	milligram
+# millimetre	millimetre
+# million	million
+# millionth	millionth
+# mineral	mineral
+# minimum	minimum
+# minister	minister
+# ministry	ministry
+# minor	minor
+# minority	minority
+# mirror	mirror
+# missing	missing
+# mistake	mistake
+# mistaken	mistaken
+# mixed	mixed
+# mixture	mixture
+# mobile	mobile
+# model	model
+# modern	modern
+# moment	moment
+# Monday	Monday
+# money	money
+# monitor	monitor
+# month	month
+# moral	moral
+# morally	morally
+# moreover	moreover
+# morning	morning
+# mostly	mostly
+# mother	mother
+# motion	motion
+# motor	motor
+# motorbike	motorbike
+# motorcycle	motorcycle
+# mount	mount
+# mountain	mountain
+# mouse	mouse
+# mouth	mouth
+# movement	movement
+# movie	movie
+# moving	moving
+# multiply	multiply
+# murder	murder
+# muscle	muscle
+# museum	museum
+# music	music
+# musical	musical
+# musician	musician
+# myself	myself
+# mysterious	mysterious
+# mystery	mystery
+# naked	naked
+# narrow	narrow
+# nation	nation
+# national	national
+# natural	natural
+# naturally	naturally
+# nature	nature
+# nearby	nearby
+# nearly	nearly
+# neatly	neatly
+# necessarily	necessarily
+# necessary	necessary
+# needle	needle
+# negative	negative
+# neighbour	neighbour
+# neighbourhood	neighbourhood
+# neither	neither
+# nephew	nephew
+# nerve	nerve
+# nervous	nervous
+# nervously	nervously
+# network	network
+# never	never
+# nevertheless	nevertheless
+# newly	newly
+# newspaper	newspaper
+# nicely	nicely
+# niece	niece
+# night	night
+# nineteen	nineteen
+# nineteenth	nineteenth
+# ninetieth	ninetieth
+# ninety	ninety
+# ninth	ninth
+# nobody	nobody
+# noise	noise
+# noisily	noisily
+# noisy	noisy
+# nonsense	nonsense
+# normal	normal
+# normally	normally
+# north	north
+# northern	northern
+# nothing	nothing
+# notice	notice
+# noticeable	noticeable
+# novel	novel
+# November	November
+# nowhere	nowhere
+# nuclear	nuclear
+# number	number
+# nurse	nurse
+# object	object
+# objective	objective
+# observation	observation
+# observe	observe
+# obtain	obtain
+# obvious	obvious
+# obviously	obviously
+# occasion	occasion
+# occasionally	occasionally
+# occupied	occupied
+# occupy	occupy
+# occur	occur
+# ocean	ocean
+# o’clock	o’clock
+# October	October
+# oddly	oddly
+# offence	offence
+# offend	offend
+# offense	offense
+# offensive	offensive
+# offer	offer
+# office	office
+# officer	officer
+# official	official
+# officially	officially
+# often	often
+# old-fashioned	old-fashioned
+# onion	onion
+# online	online
+# opening	opening
+# openly	openly
+# operate	operate
+# operation	operation
+# opinion	opinion
+# opponent	opponent
+# opportunity	opportunity
+# oppose	oppose
+# opposed	opposed
+# opposing	opposing
+# opposite	opposite
+# opposition	opposition
+# option	option
+# orange	orange
+# order	order
+# ordinary	ordinary
+# organ	organ
+# organization	organization
+# organize	organize
+# organized	organized
+# origin	origin
+# original	original
+# originally	originally
+# other	other
+# otherwise	otherwise
+# ourselves	ourselves
+# outdoor	outdoor
+# outdoors	outdoors
+# outer	outer
+# outline	outline
+# output	output
+# outside	outside
+# outstanding	outstanding
+# overall	overall
+# overcome	overcome
+# owner	owner
+# package	package
+# packaging	packaging
+# packet	packet
+# painful	painful
+# paint	paint
+# painter	painter
+# painting	painting
+# palace	palace
+# panel	panel
+# pants	pants
+# paper	paper
+# parallel	parallel
+# parent	parent
+# parliament	parliament
+# particular	particular
+# particularly	particularly
+# partly	partly
+# partner	partner
+# partnership	partnership
+# party	party
+# passage	passage
+# passenger	passenger
+# passing	passing
+# passport	passport
+# patience	patience
+# patient	patient
+# pattern	pattern
+# pause	pause
+# payment	payment
+# peace	peace
+# peaceful	peaceful
+# pencil	pencil
+# penny	penny
+# people	people
+# pepper	pepper
+# perfect	perfect
+# perfectly	perfectly
+# perform	perform
+# performance	performance
+# performer	performer
+# perhaps	perhaps
+# period	period
+# permanent	permanent
+# permanently	permanently
+# permission	permission
+# permit	permit
+# person	person
+# personal	personal
+# personality	personality
+# personally	personally
+# persuade	persuade
+# petrol	petrol
+# phase	phase
+# philosophy	philosophy
+# phone	phone
+# photo	photo
+# photocopy	photocopy
+# photograph	photograph
+# photographer	photographer
+# photography	photography
+# phrase	phrase
+# physical	physical
+# physically	physically
+# physics	physics
+# piano	piano
+# picture	picture
+# piece	piece
+# pilot	pilot
+# pitch	pitch
+# place	place
+# plain	plain
+# plane	plane
+# planet	planet
+# planning	planning
+# plant	plant
+# plastic	plastic
+# plate	plate
+# platform	platform
+# player	player
+# pleasant	pleasant
+# pleasantly	pleasantly
+# please	please
+# pleased	pleased
+# pleasing	pleasing
+# pleasure	pleasure
+# plenty	plenty
+# pocket	pocket
+# poetry	poetry
+# point	point
+# pointed	pointed
+# poison	poison
+# poisonous	poisonous
+# police	police
+# policy	policy
+# polish	polish
+# polite	polite
+# politely	politely
+# political	political
+# politically	politically
+# politician	politician
+# politics	politics
+# pollution	pollution
+# popular	popular
+# population	population
+# position	position
+# positive	positive
+# possess	possess
+# possession	possession
+# possibility	possibility
+# possible	possible
+# possibly	possibly
+# potato	potato
+# potential	potential
+# potentially	potentially
+# pound	pound
+# powder	powder
+# power	power
+# powerful	powerful
+# practical	practical
+# practically	practically
+# practice	practice
+# practise	practise
+# praise	praise
+# prayer	prayer
+# precise	precise
+# precisely	precisely
+# predict	predict
+# prefer	prefer
+# preference	preference
+# pregnant	pregnant
+# premises	premises
+# preparation	preparation
+# prepare	prepare
+# prepared	prepared
+# presence	presence
+# present	present
+# presentation	presentation
+# preserve	preserve
+# president	president
+# press	press
+# pressure	pressure
+# presumably	presumably
+# pretend	pretend
+# pretty	pretty
+# prevent	prevent
+# previous	previous
+# previously	previously
+# price	price
+# pride	pride
+# priest	priest
+# primarily	primarily
+# primary	primary
+# prince	prince
+# princess	princess
+# principle	principle
+# print	print
+# printer	printer
+# printing	printing
+# prior	prior
+# priority	priority
+# prison	prison
+# prisoner	prisoner
+# private	private
+# privately	privately
+# prize	prize
+# probable	probable
+# probably	probably
+# problem	problem
+# procedure	procedure
+# proceed	proceed
+# produce	produce
+# producer	producer
+# product	product
+# production	production
+# profession	profession
+# professional	professional
+# professor	professor
+# profit	profit
+# program	program
+# programme	programme
+# progress	progress
+# project	project
+# promise	promise
+# promote	promote
+# promotion	promotion
+# prompt	prompt
+# promptly	promptly
+# pronounce	pronounce
+# pronunciation	pronunciation
+# proof	proof
+# proper	proper
+# properly	properly
+# property	property
+# proportion	proportion
+# proposal	proposal
+# propose	propose
+# prospect	prospect
+# protect	protect
+# protection	protection
+# protest	protest
+# proud	proud
+# proudly	proudly
+# prove	prove
+# provide	provide
+# provided	provided
+# providing	providing
+# public	public
+# publication	publication
+# publicity	publicity
+# publicly	publicly
+# publish	publish
+# publishing	publishing
+# punch	punch
+# punish	punish
+# punishment	punishment
+# pupil	pupil
+# purchase	purchase
+# purely	purely
+# purple	purple
+# purpose	purpose
+# pursue	pursue
+# qualification	qualification
+# qualified	qualified
+# qualify	qualify
+# quality	quality
+# quantity	quantity
+# quarter	quarter
+# queen	queen
+# question	question
+# quick	quick
+# quickly	quickly
+# quiet	quiet
+# quietly	quietly
+# quite	quite
+# quote	quote
+# racing	racing
+# radio	radio
+# railroad	railroad
+# railway	railway
+# raise	raise
+# range	range
+# rapid	rapid
+# rapidly	rapidly
+# rarely	rarely
+# rather	rather
+# reach	reach
+# react	react
+# reaction	reaction
+# reader	reader
+# reading	reading
+# ready	ready
+# realistic	realistic
+# reality	reality
+# realize	realize
+# really	really
+# reason	reason
+# reasonable	reasonable
+# reasonably	reasonably
+# recall	recall
+# receipt	receipt
+# receive	receive
+# recent	recent
+# recently	recently
+# reception	reception
+# reckon	reckon
+# recognition	recognition
+# recognize	recognize
+# recommend	recommend
+# record	record
+# recording	recording
+# recover	recover
+# reduce	reduce
+# reduction	reduction
+# refer	refer
+# reference	reference
+# reflect	reflect
+# reform	reform
+# refrigerator	refrigerator
+# refusal	refusal
+# regard	regard
+# regarding	regarding
+# region	region
+# regional	regional
+# register	register
+# regret	regret
+# regular	regular
+# regularly	regularly
+# regulation	regulation
+# reject	reject
+# relate	relate
+# related	related
+# relation	relation
+# relationship	relationship
+# relative	relative
+# relatively	relatively
+# relax	relax
+# relaxed	relaxed
+# relaxing	relaxing
+# release	release
+# relevant	relevant
+# relief	relief
+# religion	religion
+# religious	religious
+# remain	remain
+# remaining	remaining
+# remains	remains
+# remark	remark
+# remarkable	remarkable
+# remarkably	remarkably
+# remember	remember
+# remind	remind
+# remote	remote
+# removal	removal
+# remove	remove
+# rented	rented
+# repair	repair
+# repeat	repeat
+# repeated	repeated
+# repeatedly	repeatedly
+# replace	replace
+# reply	reply
+# report	report
+# represent	represent
+# representative	representative
+# reproduce	reproduce
+# reputation	reputation
+# request	request
+# require	require
+# requirement	requirement
+# rescue	rescue
+# research	research
+# reservation	reservation
+# reserve	reserve
+# resident	resident
+# resist	resist
+# resistance	resistance
+# resolve	resolve
+# resort	resort
+# resource	resource
+# respect	respect
+# respond	respond
+# response	response
+# responsibility	responsibility
+# responsible	responsible
+# restaurant	restaurant
+# restore	restore
+# restrict	restrict
+# restricted	restricted
+# restriction	restriction
+# result	result
+# retain	retain
+# retire	retire
+# retired	retired
+# retirement	retirement
+# return	return
+# reveal	reveal
+# reverse	reverse
+# review	review
+# revise	revise
+# revision	revision
+# revolution	revolution
+# reward	reward
+# rhythm	rhythm
+# rider	rider
+# ridiculous	ridiculous
+# riding	riding
+# right	right
+# rightly	rightly
+# rival	rival
+# river	river
+# romantic	romantic
+# rough	rough
+# roughly	roughly
+# round	round
+# rounded	rounded
+# route	route
+# routine	routine
+# royal	royal
+# rubber	rubber
+# rubbish	rubbish
+# rudely	rudely
+# ruined	ruined
+# ruler	ruler
+# rumour	rumour
+# runner	runner
+# running	running
+# rural	rural
+# sadly	sadly
+# sadness	sadness
+# safely	safely
+# safety	safety
+# sailing	sailing
+# sailor	sailor
+# salad	salad
+# salary	salary
+# salty	salty
+# sample	sample
+# satisfaction	satisfaction
+# satisfied	satisfied
+# satisfy	satisfy
+# satisfying	satisfying
+# Saturday	Saturday
+# sauce	sauce
+# saving	saving
+# scale	scale
+# scare	scare
+# scared	scared
+# scene	scene
+# schedule	schedule
+# scheme	scheme
+# school	school
+# science	science
+# scientific	scientific
+# scientist	scientist
+# scissors	scissors
+# score	score
+# scratch	scratch
+# scream	scream
+# screen	screen
+# screw	screw
+# search	search
+# season	season
+# secondary	secondary
+# secret	secret
+# secretary	secretary
+# secretly	secretly
+# section	section
+# sector	sector
+# secure	secure
+# security	security
+# select	select
+# selection	selection
+# self	-self-
+# senate	senate
+# senator	senator
+# senior	senior
+# sense	sense
+# sensible	sensible
+# sensitive	sensitive
+# sentence	sentence
+# separate	separate
+# separated	separated
+# separately	separately
+# separation	separation
+# September	September
+# series	series
+# serious	serious
+# seriously	seriously
+# servant	servant
+# serve	serve
+# service	service
+# session	session
+# settle	settle
+# seven	seven
+# seventeen	seventeen
+# seventh	seventh
+# seventieth	seventieth
+# seventy	seventy
+# several	several
+# severe	severe
+# severely	severely
+# sewing	sewing
+# sexual	sexual
+# sexually	sexually
+# shade	shade
+# shadow	shadow
+# shake	shake
+# shall	shall
+# shallow	shallow
+# shame	shame
+# shape	shape
+# shaped	shaped
+# share	share
+# sharp	sharp
+# sharply	sharply
+# shave	shave
+# sheep	sheep
+# sheet	sheet
+# shelf	shelf
+# shell	shell
+# shelter	shelter
+# shift	shift
+# shine	shine
+# shiny	shiny
+# shirt	shirt
+# shock	shock
+# shocked	shocked
+# shocking	shocking
+# shoot	shoot
+# shooting	shooting
+# shopping	shopping
+# short	short
+# shortly	shortly
+# should	should
+# shoulder	shoulder
+# shout	shout
+# shower	shower
+# sideways	sideways
+# sight	sight
+# signal	signal
+# signature	signature
+# significant	significant
+# significantly	significantly
+# silence	silence
+# silent	silent
+# silly	silly
+# silver	silver
+# similar	similar
+# similarly	similarly
+# simple	simple
+# simply	simply
+# since	since
+# sincere	sincere
+# sincerely	sincerely
+# singer	singer
+# singing	singing
+# single	single
+# sister	sister
+# situation	situation
+# sixteen	sixteen
+# sixth	sixth
+# sixtieth	sixtieth
+# sixty	sixty
+# skilful	skilful
+# skilfully	skilfully
+# skill	skill
+# skilled	skilled
+# skirt	skirt
+# sleep	sleep
+# sleeve	sleeve
+# slice	slice
+# slide	slide
+# slight	slight
+# slightly	slightly
+# slope	slope
+# slowly	slowly
+# small	small
+# smart	smart
+# smash	smash
+# smell	smell
+# smile	smile
+# smoke	smoke
+# smoking	smoking
+# smooth	smooth
+# smoothly	smoothly
+# snake	snake
+# social	social
+# socially	socially
+# society	society
+# softly	softly
+# software	software
+# soldier	soldier
+# solid	solid
+# solution	solution
+# solve	solve
+# somebody	somebody
+# somehow	somehow
+# someone	someone
+# something	something
+# sometimes	sometimes
+# somewhat	somewhat
+# somewhere	somewhere
+# sorry	sorry
+# sound	sound
+# source	source
+# south	south
+# southern	southern
+# space	space
+# spare	spare
+# speak	speak
+# speaker	speaker
+# special	special
+# specialist	specialist
+# specially	specially
+# specific	specific
+# specifically	specifically
+# speech	speech
+# speed	speed
+# spell	spell
+# spelling	spelling
+# spend	spend
+# spice	spice
+# spicy	spicy
+# spider	spider
+# spirit	spirit
+# spiritual	spiritual
+# spite	spite
+# split	split
+# spoil	spoil
+# spoken	spoken
+# spoon	spoon
+# sport	sport
+# spray	spray
+# spread	spread
+# spring	spring
+# square	square
+# squeeze	squeeze
+# stable	stable
+# staff	staff
+# stage	stage
+# stair	stair
+# stamp	stamp
+# stand	stand
+# standard	standard
+# stare	stare
+# start	start
+# state	state
+# statement	statement
+# station	station
+# statue	statue
+# status	status
+# steadily	steadily
+# steady	steady
+# steal	steal
+# steam	steam
+# steel	steel
+# steep	steep
+# steeply	steeply
+# steer	steer
+# stick	stick
+# sticky	sticky
+# stiff	stiff
+# stiffly	stiffly
+# still	still
+# sting	sting
+# stock	stock
+# stomach	stomach
+# stone	stone
+# store	store
+# storm	storm
+# story	story
+# stove	stove
+# straight	straight
+# strain	strain
+# strange	strange
+# strangely	strangely
+# stranger	stranger
+# strategy	strategy
+# stream	stream
+# street	street
+# strength	strength
+# stress	stress
+# stressed	stressed
+# stretch	stretch
+# strict	strict
+# strictly	strictly
+# strike	strike
+# striking	striking
+# string	string
+# strip	strip
+# stripe	stripe
+# striped	striped
+# stroke	stroke
+# strong	strong
+# strongly	strongly
+# structure	structure
+# struggle	struggle
+# student	student
+# studio	studio
+# study	study
+# stuff	stuff
+# stupid	stupid
+# style	style
+# subject	subject
+# substance	substance
+# substantial	substantial
+# substantially	substantially
+# substitute	substitute
+# succeed	succeed
+# success	success
+# successful	successful
+# successfully	successfully
+# sudden	sudden
+# suddenly	suddenly
+# suffer	suffer
+# suffering	suffering
+# sufficient	sufficient
+# sufficiently	sufficiently
+# sugar	sugar
+# suggest	suggest
+# suggestion	suggestion
+# suitable	suitable
+# suitcase	suitcase
+# suited	suited
+# summary	summary
+# summer	summer
+# Sunday	Sunday
+# superior	superior
+# supermarket	supermarket
+# supply	supply
+# support	support
+# supporter	supporter
+# suppose	suppose
+# surely	surely
+# surface	surface
+# surname	surname
+# surprise	surprise
+# surprised	surprised
+# surprising	surprising
+# surprisingly	surprisingly
+# surround	surround
+# surrounding	surrounding
+# surroundings	surroundings
+# survey	survey
+# survive	survive
+# suspect	suspect
+# suspicion	suspicion
+# suspicious	suspicious
+# swallow	swallow
+# swear	swear
+# swearing	swearing
+# sweat	sweat
+# sweater	sweater
+# sweep	sweep
+# sweet	sweet
+# swell	swell
+# swelling	swelling
+# swimming	swimming
+# swing	swing
+# switch	switch
+# swollen	swollen
+# symbol	symbol
+# sympathetic	sympathetic
+# sympathy	sympathy
+# system	system
+# table	table
+# tablet	tablet
+# tackle	tackle
+# target	target
+# taste	taste
+# teach	teach
+# teacher	teacher
+# teaching	teaching
+# technical	technical
+# technique	technique
+# technology	technology
+# telephone	telephone
+# television	television
+# temperature	temperature
+# temporarily	temporarily
+# temporary	temporary
+# tendency	tendency
+# tension	tension
+# tenth	tenth
+# terrible	terrible
+# terribly	terribly
+# thank	thank
+# thanks	thanks
+# theatre	theatre
+# their	their
+# theirs	theirs
+# theme	theme
+# themselves	themselves
+# theory	theory
+# there	there
+# therefore	therefore
+# thick	thick
+# thickly	thickly
+# thickness	thickness
+# thief	thief
+# thing	thing
+# think	think
+# thinking	thinking
+# third	third
+# thirsty	thirsty
+# thirteen	thirteen
+# thirteenth	thirteenth
+# thirtieth	thirtieth
+# thirty	thirty
+# thorough	thorough
+# thoroughly	thoroughly
+# though	though
+# thought	thought
+# thousand	thousand
+# thousandth	thousandth
+# thread	thread
+# threat	threat
+# threaten	threaten
+# threatening	threatening
+# three	three
+# throat	throat
+# through	through
+# throughout	throughout
+# throw	throw
+# thumb	thumb
+# Thursday	Thursday
+# ticket	ticket
+# tight	tight
+# tightly	tightly
+# timetable	timetable
+# tired	tired
+# tiring	tiring
+# title	title
+# today	today
+# together	together
+# toilet	toilet
+# tomato	tomato
+# tomorrow	tomorrow
+# tongue	tongue
+# tonight	tonight
+# tonne	tonne
+# tooth	tooth
+# topic	topic
+# total	total
+# totally	totally
+# touch	touch
+# tough	tough
+# tourist	tourist
+# towards	towards
+# towel	towel
+# tower	tower
+# trace	trace
+# track	track
+# trade	trade
+# trading	trading
+# tradition	tradition
+# traditional	traditional
+# traditionally	traditionally
+# traffic	traffic
+# train	train
+# training	training
+# transfer	transfer
+# transform	transform
+# translate	translate
+# translation	translation
+# transparent	transparent
+# transport	transport
+# transportation	transportation
+# travel	travel
+# traveller	traveller
+# treat	treat
+# treatment	treatment
+# trend	trend
+# trial	trial
+# triangle	triangle
+# trick	trick
+# tropical	tropical
+# trouble	trouble
+# trousers	trousers
+# truck	truck
+# truly	truly
+# trust	trust
+# truth	truth
+# Tuesday	Tuesday
+# tunnel	tunnel
+# twelfth	twelfth
+# twelve	twelve
+# twentieth	twentieth
+# twenty	twenty
+# twice	twice
+# twist	twist
+# twisted	twisted
+# typical	typical
+# typically	typically
+# ultimate	ultimate
+# ultimately	ultimately
+# umbrella	umbrella
+# unable	unable
+# unacceptable	unacceptable
+# uncertain	uncertain
+# uncle	uncle
+# uncomfortable	uncomfortable
+# unconscious	unconscious
+# uncontrolled	uncontrolled
+# under	under
+# underground	underground
+# underneath	underneath
+# understand	understand
+# understanding	understanding
+# underwater	underwater
+# underwear	underwear
+# unemployed	unemployed
+# unemployment	unemployment
+# unexpected	unexpected
+# unexpectedly	unexpectedly
+# unfair	unfair
+# unfairly	unfairly
+# unfortunate	unfortunate
+# unfortunately	unfortunately
+# unfriendly	unfriendly
+# unhappy	unhappy
+# uniform	uniform
+# unimportant	unimportant
+# union	union
+# unique	unique
+# unite	unite
+# united	united
+# universe	universe
+# university	university
+# unkind	unkind
+# unknown	unknown
+# unless	unless
+# unlike	unlike
+# unlikely	unlikely
+# unload	unload
+# unlucky	unlucky
+# unnecessary	unnecessary
+# unpleasant	unpleasant
+# unreasonable	unreasonable
+# unsteady	unsteady
+# unsuccessful	unsuccessful
+# untidy	untidy
+# until	until
+# unusual	unusual
+# unusually	unusually
+# unwilling	unwilling
+# unwillingly	unwillingly
+# upper	upper
+# upset	upset
+# upsetting	upsetting
+# upstairs	upstairs
+# upward	upward
+# upwards	upwards
+# urban	urban
+# urgent	urgent
+# useful	useful
+# useless	useless
+# usual	usual
+# usually	usually
+# vacation	vacation
+# valid	valid
+# valley	valley
+# valuable	valuable
+# value	value
+# variation	variation
+# varied	varied
+# variety	variety
+# various	various
+# vegetable	vegetable
+# vehicle	vehicle
+# venture	venture
+# version	version
+# vertical	vertical
+# victim	victim
+# victory	victory
+# video	video
+# village	village
+# violence	violence
+# violent	violent
+# violently	violently
+# virtually	virtually
+# virus	virus
+# visible	visible
+# vision	vision
+# visit	visit
+# visitor	visitor
+# vital	vital
+# vocabulary	vocabulary
+# voice	voice
+# volume	volume
+# waist	waist
+# waiter	waiter
+# walking	walking
+# wallet	wallet
+# wander	wander
+# warmth	warmth
+# warning	warning
+# washing	washing
+# waste	waste
+# watch	watch
+# water	water
+# weakness	weakness
+# wealth	wealth
+# weapon	weapon
+# weather	weather
+# website	website
+# wedding	wedding
+# Wednesday	Wednesday
+# weekend	weekend
+# weekly	weekly
+# weigh	weigh
+# weight	weight
+# welcome	welcome
+# western	western
+# whatever	whatever
+# wheel	wheel
+# whenever	whenever
+# where	where
+# whereas	whereas
+# wherever	wherever
+# whether	whether
+# which	which
+# while	while
+# whisper	whisper
+# whistle	whistle
+# white	white
+# whoever	whoever
+# whole	whole
+# whose	whose
+# widely	widely
+# width	width
+# wildly	wildly
+# willing	willing
+# willingly	willingly
+# willingness	willingness
+# window	window
+# winner	winner
+# winning	winning
+# winter	winter
+# withdraw	withdraw
+# within	within
+# without	without
+# witness	witness
+# woman	woman
+# wonder	wonder
+# wonderful	wonderful
+# wooden	wooden
+# worker	worker
+# working	working
+# world	world
+# worried	worried
+# worry	worry
+# worrying	worrying
+# worse	worse
+# worship	worship
+# worst	worst
+# worth	worth
+# would	would
+# wounded	wounded
+# wrapping	wrapping
+# wrist	wrist
+# write	write
+# writer	writer
+# writing	writing
+# written	written
+# wrong	wrong
+# wrongly	wrongly
+# yellow	yellow
+# yesterday	yesterday
+# young	young
+# yours	yours
+# yourself	yourself
+# youth	youth
