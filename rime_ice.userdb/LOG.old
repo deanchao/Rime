@@ -1,5 +1,2 @@
-2024/08/21-14:39:24.083978 0x1f7738c00 Recovering log #893
-2024/08/21-14:39:24.086803 0x1f7738c00 Level-0 table #896: started
-2024/08/21-14:39:24.094118 0x1f7738c00 Level-0 table #896: 207750 bytes OK
-2024/08/21-14:39:24.106519 0x1f7738c00 Delete type=3 #892
-2024/08/21-14:39:24.106533 0x1f7738c00 Delete type=0 #893
+2025/05/19-15:48:34.499916 0x1f1fb0c80 Creating DB /Users/tinghong/Library/Rime/rime_ice.userdb since it was missing.
+2025/05/19-15:48:34.534806 0x1f1fb0c80 Delete type=3 #1
