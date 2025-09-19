@@ -60,7 +60,7 @@ style:
   
   fullscreen: false                        # 候选窗口全屏显示：true；false
   horizontal: true                         # 候选项横排：true；false
-  vertical_text: false                     # 竖排文本：true；false
+  vertical_text: true                     # 竖排文本：true；false
   # text_orientation: horizontal           # 文本排列方向，效果和 `vertical_text` 相同：horizontal；vertical
   vertical_text_left_to_right: false       # 竖排方向是否从左到右：true；false
   vertical_text_with_wrap: false           # 文本竖排模式下，自动换行：true；false

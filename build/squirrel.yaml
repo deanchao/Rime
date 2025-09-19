@@ -1,8 +1,8 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.13.0
   timestamps:
-    squirrel: 1709171412
-    squirrel.custom: 1710901002
+    squirrel: 1758198327
+    squirrel.custom: 1758197081
 chord_duration: 0.1
 config_version: "2023-02-27"
 keyboard_layout: default
@@ -409,6 +409,7 @@ style:
   font_face: "Lucida Grande"
   font_point: 21
   hilited_corner_radius: 0
+  horizontal: true
   inline_preedit: true
   label_font_point: 18
   line_spacing: 5
