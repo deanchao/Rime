@@ -1,10 +1,10 @@
 __build_info:
   rime_version: 1.13.0
   timestamps:
-    default: 1758197512
-    default.custom: 0
+    default: 1763090929
+    default.custom: 1763090122
     rime_ice.custom: 0
-    rime_ice.schema: 1758197081
+    rime_ice.schema: 1763090945
     symbols_v: 1758197081
     symbols_v.custom: 0
 cn_en:
@@ -110,6 +110,7 @@ melt_eng:
 menu:
   page_size: 5
 punctuator:
+  digit_separators: ""
   full_shape:
     " ": {commit: "　"}
     "!": {commit: "！"}

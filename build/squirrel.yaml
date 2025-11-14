@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.13.0
   timestamps:
-    squirrel: 1758198327
-    squirrel.custom: 1758197081
+    squirrel: 1758198376
+    squirrel.custom: 1758299088
 chord_duration: 0.1
 config_version: "2023-02-27"
 keyboard_layout: default
@@ -402,6 +402,7 @@ show_notifications_when: appropriate
 style:
   border_height: 0
   border_width: 0
+  candidate_list_layout: linear
   color_scheme: wechat_light
   color_scheme_dark: mac_dark_my
   comment_font_point: 18
