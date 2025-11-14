@@ -357,6 +357,8 @@ traditionalize:
 #   half_shape 半角标点映射
 #   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符，自定义的 symbols_v.yaml 修改成了 'v' 开头。
 punctuator:
+  # 数字后面的冒号等，强制全角，要输入半角切回abc
+  digit_separators: ""
   full_shape:
     __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
   half_shape:
